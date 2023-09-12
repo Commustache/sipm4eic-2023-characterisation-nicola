@@ -1,0 +1,2710 @@
+ --- running run-memmert-hama3-setup IV setup 
+A1
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_OPEN-A1
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 4
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 36 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_OPEN-A1.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_OPEN-A1.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 43.621075 seconds
+--- plot is ready and saved: waiting for 5 seconds
+(@)
+(@105)
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_A1
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 9
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 549 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_A1.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_A1.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 109.644241 seconds
+--- plot is ready and saved: waiting for 5 seconds
+A2
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_OPEN-A2
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 4
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 36 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_OPEN-A2.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_OPEN-A2.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 43.618201 seconds
+--- plot is ready and saved: waiting for 5 seconds
+(@)
+(@106)
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_A2
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 9
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 549 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_A2.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_A2.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 106.470123 seconds
+--- plot is ready and saved: waiting for 5 seconds
+A3
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_OPEN-A3
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 4
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 36 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_OPEN-A3.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_OPEN-A3.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 43.614888 seconds
+--- plot is ready and saved: waiting for 5 seconds
+(@)
+(@107)
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_A3
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 9
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 558 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_A3.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_A3.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 109.138380 seconds
+--- plot is ready and saved: waiting for 5 seconds
+A4
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_OPEN-A4
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 4
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 36 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_OPEN-A4.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_OPEN-A4.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 43.611850 seconds
+--- plot is ready and saved: waiting for 5 seconds
+(@)
+(@108)
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_A4
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 9
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 585 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_A4.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_A4.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 111.964461 seconds
+--- plot is ready and saved: waiting for 5 seconds
+
+Processing /home/eic/alcor/alcor-utils/measure/2023-characterisation/drawing_routines/draw_iv.C(".", "HAMA3_sn0_293K")...
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN.ivscan.csv, TGraph is Zombie
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_A1.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-A1.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_A2.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-A2.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_A3.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-A3.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_A4.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-A4.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_B1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_B1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-B1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-B1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_B2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_B2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-B2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-B2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_B3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_B3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-B3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-B3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_B4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_B4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-B4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-B4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_C1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_C1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-C1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-C1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_C2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_C2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-C2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-C2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_C3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_C3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-C3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-C3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_C4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_C4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-C4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-C4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_D1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_D1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-D1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-D1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_D2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_D2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-D2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-D2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_D3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_D3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-D3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-D3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_D4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_D4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-D4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-D4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_E1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_E1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-E1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-E1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_E2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_E2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-E2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-E2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_E3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_E3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-E3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-E3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_E4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_E4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-E4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-E4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_F1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_F1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-F1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-F1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_F2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_F2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-F2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-F2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_F3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_F3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-F3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-F3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_F4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_F4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-F4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-F4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_G1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_G1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-G1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-G1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_G2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_G2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-G2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-G2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_G3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_G3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-G3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-G3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_G4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_G4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-G4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-G4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_H1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_H1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-H1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-H1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_H2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_H2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-H2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-H2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_H3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_H3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-H3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-H3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_H4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_H4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-H4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-H4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+Info in <TCanvas::Print>: png file ivmap.png has been created
+Info in <TCanvas::Print>: png file ivall.png has been created
+B1
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_OPEN-B1
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 4
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 36 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_OPEN-B1.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_OPEN-B1.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 43.618552 seconds
+--- plot is ready and saved: waiting for 5 seconds
+(@)
+(@109)
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_B1
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 9
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 459 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_B1.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_B1.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 94.467982 seconds
+--- plot is ready and saved: waiting for 5 seconds
+B2
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_OPEN-B2
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 4
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 36 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_OPEN-B2.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_OPEN-B2.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 43.603943 seconds
+--- plot is ready and saved: waiting for 5 seconds
+(@)
+(@110)
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_B2
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 9
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 441 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_B2.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_B2.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 92.414010 seconds
+--- plot is ready and saved: waiting for 5 seconds
+B3
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_OPEN-B3
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 4
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 36 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_OPEN-B3.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_OPEN-B3.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 43.612052 seconds
+--- plot is ready and saved: waiting for 5 seconds
+(@)
+(@111)
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_B3
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 9
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 450 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_B3.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_B3.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 93.469629 seconds
+--- plot is ready and saved: waiting for 5 seconds
+B4
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_OPEN-B4
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 4
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 36 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_OPEN-B4.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_OPEN-B4.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 43.607072 seconds
+--- plot is ready and saved: waiting for 5 seconds
+(@)
+(@112)
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_B4
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 9
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 477 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_B4.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_B4.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 96.646820 seconds
+--- plot is ready and saved: waiting for 5 seconds
+
+Processing /home/eic/alcor/alcor-utils/measure/2023-characterisation/drawing_routines/draw_iv.C(".", "HAMA3_sn0_293K")...
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN.ivscan.csv, TGraph is Zombie
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_A1.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-A1.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_A2.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-A2.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_A3.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-A3.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_A4.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-A4.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_B1.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-B1.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_B2.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-B2.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_B3.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-B3.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_B4.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-B4.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_C1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_C1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-C1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-C1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_C2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_C2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-C2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-C2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_C3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_C3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-C3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-C3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_C4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_C4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-C4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-C4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_D1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_D1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-D1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-D1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_D2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_D2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-D2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-D2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_D3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_D3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-D3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-D3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_D4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_D4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-D4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-D4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_E1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_E1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-E1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-E1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_E2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_E2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-E2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-E2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_E3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_E3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-E3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-E3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_E4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_E4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-E4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-E4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_F1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_F1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-F1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-F1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_F2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_F2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-F2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-F2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_F3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_F3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-F3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-F3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_F4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_F4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-F4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-F4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_G1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_G1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-G1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-G1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_G2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_G2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-G2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-G2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_G3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_G3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-G3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-G3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_G4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_G4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-G4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-G4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_H1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_H1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-H1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-H1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_H2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_H2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-H2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-H2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_H3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_H3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-H3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-H3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_H4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_H4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-H4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-H4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+Info in <TCanvas::Print>: png file ivmap.png has been created
+Info in <TCanvas::Print>: png file ivall.png has been created
+C1
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_OPEN-C1
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 37.83 V (refV = 38.0, refT = 25.0, coef = 0.034)
+--- rounding at first decimal: Vbd = 37.8
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [37.8, 42.8], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 4
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 36 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_OPEN-C1.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_OPEN-C1.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 43.615019 seconds
+--- plot is ready and saved: waiting for 5 seconds
+(@)
+(@113)
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_C1
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 37.83 V (refV = 38.0, refT = 25.0, coef = 0.034)
+--- rounding at first decimal: Vbd = 37.8
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [37.8, 42.8], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 9
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 576 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_C1.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_C1.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 110.085666 seconds
+--- plot is ready and saved: waiting for 5 seconds
+C2
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_OPEN-C2
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 37.83 V (refV = 38.0, refT = 25.0, coef = 0.034)
+--- rounding at first decimal: Vbd = 37.8
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [37.8, 42.8], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 4
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 36 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_OPEN-C2.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_OPEN-C2.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 43.622839 seconds
+--- plot is ready and saved: waiting for 5 seconds
+(@)
+(@114)
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_C2
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 37.83 V (refV = 38.0, refT = 25.0, coef = 0.034)
+--- rounding at first decimal: Vbd = 37.8
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [37.8, 42.8], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 9
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 540 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_C2.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_C2.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 105.426538 seconds
+--- plot is ready and saved: waiting for 5 seconds
+C3
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_OPEN-C3
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 37.83 V (refV = 38.0, refT = 25.0, coef = 0.034)
+--- rounding at first decimal: Vbd = 37.8
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [37.8, 42.8], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 4
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 36 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_OPEN-C3.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_OPEN-C3.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 43.610065 seconds
+--- plot is ready and saved: waiting for 5 seconds
+(@)
+(@115)
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_C3
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 37.83 V (refV = 38.0, refT = 25.0, coef = 0.034)
+--- rounding at first decimal: Vbd = 37.8
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [37.8, 42.8], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 9
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 558 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_C3.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_C3.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 107.553420 seconds
+--- plot is ready and saved: waiting for 5 seconds
+C4
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_OPEN-C4
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 37.83 V (refV = 38.0, refT = 25.0, coef = 0.034)
+--- rounding at first decimal: Vbd = 37.8
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [37.8, 42.8], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 4
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 36 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_OPEN-C4.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_OPEN-C4.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 43.613357 seconds
+--- plot is ready and saved: waiting for 5 seconds
+(@)
+(@116)
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_C4
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 37.83 V (refV = 38.0, refT = 25.0, coef = 0.034)
+--- rounding at first decimal: Vbd = 37.8
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [37.8, 42.8], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 9
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 567 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_C4.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_C4.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 109.029741 seconds
+--- plot is ready and saved: waiting for 5 seconds
+
+Processing /home/eic/alcor/alcor-utils/measure/2023-characterisation/drawing_routines/draw_iv.C(".", "HAMA3_sn0_293K")...
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN.ivscan.csv, TGraph is Zombie
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_A1.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-A1.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_A2.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-A2.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_A3.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-A3.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_A4.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-A4.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_B1.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-B1.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_B2.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-B2.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_B3.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-B3.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_B4.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-B4.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_C1.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-C1.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_C2.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-C2.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_C3.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-C3.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_C4.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-C4.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_D1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_D1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-D1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-D1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_D2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_D2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-D2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-D2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_D3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_D3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-D3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-D3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_D4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_D4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-D4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-D4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_E1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_E1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-E1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-E1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_E2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_E2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-E2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-E2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_E3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_E3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-E3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-E3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_E4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_E4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-E4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-E4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_F1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_F1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-F1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-F1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_F2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_F2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-F2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-F2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_F3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_F3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-F3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-F3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_F4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_F4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-F4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-F4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_G1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_G1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-G1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-G1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_G2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_G2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-G2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-G2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_G3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_G3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-G3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-G3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_G4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_G4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-G4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-G4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_H1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_H1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-H1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-H1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_H2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_H2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-H2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-H2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_H3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_H3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-H3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-H3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_H4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_H4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-H4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-H4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+Info in <TCanvas::Print>: png file ivmap.png has been created
+Info in <TCanvas::Print>: png file ivall.png has been created
+A1
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_OPEN-A1
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 4
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 36 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_OPEN-A1.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_OPEN-A1.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 43.608113 seconds
+--- plot is ready and saved: waiting for 5 seconds
+(@)
+(@205)
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_A1
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 9
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 576 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_A1.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_A1.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 110.910465 seconds
+--- plot is ready and saved: waiting for 5 seconds
+A2
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_OPEN-A2
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 4
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 36 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_OPEN-A2.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_OPEN-A2.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 43.613059 seconds
+--- plot is ready and saved: waiting for 5 seconds
+(@)
+(@206)
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_A2
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 9
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 594 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_A2.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_A2.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 113.805668 seconds
+--- plot is ready and saved: waiting for 5 seconds
+A3
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_OPEN-A3
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 4
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 36 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_OPEN-A3.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_OPEN-A3.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 43.638502 seconds
+--- plot is ready and saved: waiting for 5 seconds
+(@)
+(@207)
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_A3
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 9
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 540 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_A3.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_A3.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 107.769308 seconds
+--- plot is ready and saved: waiting for 5 seconds
+A4
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_OPEN-A4
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 4
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 36 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_OPEN-A4.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_OPEN-A4.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 43.613259 seconds
+--- plot is ready and saved: waiting for 5 seconds
+(@)
+(@208)
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_A4
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 9
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 549 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_A4.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_A4.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 109.611925 seconds
+--- plot is ready and saved: waiting for 5 seconds
+
+Processing /home/eic/alcor/alcor-utils/measure/2023-characterisation/drawing_routines/draw_iv.C(".", "HAMA3_sn0_293K")...
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN.ivscan.csv, TGraph is Zombie
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_A1.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-A1.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_A2.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-A2.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_A3.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-A3.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_A4.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-A4.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_B1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_B1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-B1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-B1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_B2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_B2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-B2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-B2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_B3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_B3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-B3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-B3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_B4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_B4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-B4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-B4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_C1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_C1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-C1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-C1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_C2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_C2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-C2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-C2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_C3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_C3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-C3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-C3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_C4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_C4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-C4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-C4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_D1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_D1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-D1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-D1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_D2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_D2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-D2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-D2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_D3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_D3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-D3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-D3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_D4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_D4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-D4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-D4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_E1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_E1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-E1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-E1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_E2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_E2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-E2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-E2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_E3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_E3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-E3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-E3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_E4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_E4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-E4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-E4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_F1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_F1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-F1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-F1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_F2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_F2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-F2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-F2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_F3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_F3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-F3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-F3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_F4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_F4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-F4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-F4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_G1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_G1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-G1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-G1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_G2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_G2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-G2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-G2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_G3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_G3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-G3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-G3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_G4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_G4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-G4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-G4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_H1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_H1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-H1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-H1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_H2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_H2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-H2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-H2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_H3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_H3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-H3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-H3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_H4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_H4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-H4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-H4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+Info in <TCanvas::Print>: png file ivmap.png has been created
+Info in <TCanvas::Print>: png file ivall.png has been created
+B1
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_OPEN-B1
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 4
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 36 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_OPEN-B1.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_OPEN-B1.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 43.605185 seconds
+--- plot is ready and saved: waiting for 5 seconds
+(@)
+(@209)
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_B1
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 9
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 468 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_B1.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_B1.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 95.587112 seconds
+--- plot is ready and saved: waiting for 5 seconds
+B2
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_OPEN-B2
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 4
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 36 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_OPEN-B2.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_OPEN-B2.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 43.605172 seconds
+--- plot is ready and saved: waiting for 5 seconds
+(@)
+(@210)
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_B2
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 9
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 468 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_B2.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_B2.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 95.595783 seconds
+--- plot is ready and saved: waiting for 5 seconds
+B3
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_OPEN-B3
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 4
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 36 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_OPEN-B3.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_OPEN-B3.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 43.606068 seconds
+--- plot is ready and saved: waiting for 5 seconds
+(@)
+(@211)
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_B3
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 9
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 459 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_B3.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_B3.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 95.291492 seconds
+--- plot is ready and saved: waiting for 5 seconds
+B4
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_OPEN-B4
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 4
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 36 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_OPEN-B4.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_OPEN-B4.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 43.606234 seconds
+--- plot is ready and saved: waiting for 5 seconds
+(@)
+(@212)
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_B4
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 50.73 V (refV = 51.0, refT = 25.0, coef = 0.054)
+--- rounding at first decimal: Vbd = 50.7
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [50.7, 55.7], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 9
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 477 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_B4.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_B4.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 96.649798 seconds
+--- plot is ready and saved: waiting for 5 seconds
+
+Processing /home/eic/alcor/alcor-utils/measure/2023-characterisation/drawing_routines/draw_iv.C(".", "HAMA3_sn0_293K")...
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN.ivscan.csv, TGraph is Zombie
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_A1.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-A1.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_A2.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-A2.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_A3.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-A3.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_A4.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-A4.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_B1.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-B1.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_B2.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-B2.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_B3.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-B3.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_B4.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-B4.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_C1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_C1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-C1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-C1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_C2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_C2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-C2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-C2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_C3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_C3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-C3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-C3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_C4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_C4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-C4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-C4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_D1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_D1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-D1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-D1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_D2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_D2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-D2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-D2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_D3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_D3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-D3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-D3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_D4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_D4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-D4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-D4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_E1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_E1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-E1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-E1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_E2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_E2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-E2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-E2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_E3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_E3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-E3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-E3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_E4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_E4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-E4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-E4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_F1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_F1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-F1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-F1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_F2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_F2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-F2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-F2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_F3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_F3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-F3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-F3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_F4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_F4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-F4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-F4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_G1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_G1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-G1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-G1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_G2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_G2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-G2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-G2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_G3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_G3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-G3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-G3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_G4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_G4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-G4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-G4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_H1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_H1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-H1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-H1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_H2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_H2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-H2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-H2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_H3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_H3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-H3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-H3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_H4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_H4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-H4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-H4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+Info in <TCanvas::Print>: png file ivmap.png has been created
+Info in <TCanvas::Print>: png file ivall.png has been created
+C1
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_OPEN-C1
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 37.83 V (refV = 38.0, refT = 25.0, coef = 0.034)
+--- rounding at first decimal: Vbd = 37.8
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [37.8, 42.8], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 4
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 36 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_OPEN-C1.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_OPEN-C1.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 43.610567 seconds
+--- plot is ready and saved: waiting for 5 seconds
+(@)
+(@213)
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_C1
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 37.83 V (refV = 38.0, refT = 25.0, coef = 0.034)
+--- rounding at first decimal: Vbd = 37.8
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [37.8, 42.8], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 9
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 549 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_C1.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_C1.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 106.506400 seconds
+--- plot is ready and saved: waiting for 5 seconds
+C2
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_OPEN-C2
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 37.83 V (refV = 38.0, refT = 25.0, coef = 0.034)
+--- rounding at first decimal: Vbd = 37.8
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [37.8, 42.8], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 4
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 36 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_OPEN-C2.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_OPEN-C2.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 43.616000 seconds
+--- plot is ready and saved: waiting for 5 seconds
+(@)
+(@214)
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_C2
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 37.83 V (refV = 38.0, refT = 25.0, coef = 0.034)
+--- rounding at first decimal: Vbd = 37.8
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [37.8, 42.8], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 9
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 549 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_C2.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_C2.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 106.901109 seconds
+--- plot is ready and saved: waiting for 5 seconds
+C3
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_OPEN-C3
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 37.83 V (refV = 38.0, refT = 25.0, coef = 0.034)
+--- rounding at first decimal: Vbd = 37.8
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [37.8, 42.8], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 4
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 36 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_OPEN-C3.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_OPEN-C3.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 43.620460 seconds
+--- plot is ready and saved: waiting for 5 seconds
+(@)
+(@215)
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_C3
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 37.83 V (refV = 38.0, refT = 25.0, coef = 0.034)
+--- rounding at first decimal: Vbd = 37.8
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [37.8, 42.8], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 9
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 558 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_C3.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_C3.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 107.561417 seconds
+--- plot is ready and saved: waiting for 5 seconds
+C4
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_OPEN-C4
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 37.83 V (refV = 38.0, refT = 25.0, coef = 0.034)
+--- rounding at first decimal: Vbd = 37.8
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [37.8, 42.8], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 4
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 36 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_OPEN-C4.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_OPEN-C4.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 43.609226 seconds
+--- plot is ready and saved: waiting for 5 seconds
+(@)
+(@216)
+--- Keithley 'ivscan' program started: HAMA3_sn0_293K_C4
+--- calculate expected Vbd for HAMA3 at T = 293 K
+--- Vbd = 37.83 V (refV = 38.0, refT = 25.0, coef = 0.034)
+--- rounding at first decimal: Vbd = 37.8
+--- instrument initialised: KEITHLEY INSTRUMENTS,MODEL 2450,04474830,1.6.7c 
+--- read configuration from file: config.keithley
+--- configuring the source and measure list: Vsmart = [37.8, 42.8], Naver = 1
+--- configuring the trigger model: Twait = 30.0, Tstep = 0.5, Tmeas = 0.0, Nmeas = 9
+--- starting the trigger model
+--- waiting for the trigger model to terminate
+--- reading measurements: there are 567 points in the buffer
+--- measurements written to file: HAMA3_sn0_293K_C4.ivscan.csv
+--- commands written to file: HAMA3_sn0_293K_C4.ivscan.scpi
+
+--- Keithley 'ivscan' program completed: 109.037711 seconds
+--- plot is ready and saved: waiting for 5 seconds
+
+Processing /home/eic/alcor/alcor-utils/measure/2023-characterisation/drawing_routines/draw_iv.C(".", "HAMA3_sn0_293K")...
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN.ivscan.csv, TGraph is Zombie
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_A1.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-A1.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_A2.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-A2.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_A3.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-A3.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_A4.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-A4.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_B1.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-B1.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_B2.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-B2.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_B3.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-B3.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_B4.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-B4.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_C1.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-C1.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_C2.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-C2.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_C3.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-C3.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_C4.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-C4.ivscan.csv
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_D1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_D1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-D1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-D1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_D2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_D2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-D2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-D2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_D3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_D3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-D3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-D3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_D4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_D4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-D4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-D4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_E1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_E1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-E1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-E1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_E2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_E2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-E2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-E2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_E3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_E3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-E3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-E3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_E4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_E4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-E4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-E4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_F1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_F1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-F1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-F1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_F2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_F2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-F2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-F2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_F3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_F3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-F3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-F3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_F4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_F4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-F4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-F4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_G1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_G1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-G1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-G1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_G2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_G2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-G2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-G2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_G3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_G3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-G3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-G3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_G4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_G4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-G4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-G4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_H1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_H1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-H1.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-H1.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_H2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_H2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-H2.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-H2.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_H3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_H3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-H3.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-H3.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_H4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_H4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+ --- zero volt level: 0 +- 0 pA
+ --- open iv scan file: ./HAMA3_sn0_293K_OPEN-H4.ivscan.csv
+Error in <TGraph::TGraph>: Cannot open file: ./HAMA3_sn0_293K_OPEN-H4.ivscan.csv, TGraph is Zombie
+Warning in <TROOT::Append>: Replacing existing TH1: pivscan (Potential memory leak).
+Warning in <TROOT::Append>: Replacing existing TH1: hivscan (Potential memory leak).
+Info in <TCanvas::Print>: png file ivmap.png has been created
+Info in <TCanvas::Print>: png file ivall.png has been created
+real 3825.79
+user 56.91
+sys 67.55

@@ -1,0 +1,97 @@
+ --- welcome to ALCOR decoder 
+ --- opening input file: ureadout_bias_voltage=38.7_biasdac=2014_basethreshold=5_threshold=10.chip_2.channel_17.alcor.dat
+ --- opening output file: ureadout_bias_voltage=38.7_biasdac=2014_basethreshold=5_threshold=10.root
+ --- integrated seconds: 0.99543
+ --- all done, so long 
+
+Processing /home/eic/alcor/alcor-utils/measure/2023-characterisation/ureadout_dcr_analysis.C("ureadout_bias_voltage=38.7_biasdac=2014_basethreshold=5_threshold=10.root", "dcr_ureadout_bias_voltage=38.7_biasdac=2014_basethreshold=5_threshold=10.root")...
+ --- opening decoded file: ureadout_bias_voltage=38.7_biasdac=2014_basethreshold=5_threshold=10.root
+ --- found 13298 entries in tree 
+ --- welcome to ALCOR decoder 
+ --- opening input file: ureadout_bias_voltage=39.2_biasdac=2040_basethreshold=5_threshold=10.chip_2.channel_17.alcor.dat
+ --- opening output file: ureadout_bias_voltage=39.2_biasdac=2040_basethreshold=5_threshold=10.root
+ --- welcome to ALCOR decoder 
+ --- opening input file: ureadout_bias_voltage=39.7_biasdac=2066_basethreshold=5_threshold=10.chip_2.channel_17.alcor.dat
+ --- opening output file: ureadout_bias_voltage=39.7_biasdac=2066_basethreshold=5_threshold=10.root
+ --- integrated seconds: 0.995021
+ --- all done, so long 
+ --- integrated seconds: 0.994509
+
+Processing /home/eic/alcor/alcor-utils/measure/2023-characterisation/ureadout_dcr_analysis.C("ureadout_bias_voltage=39.2_biasdac=2040_basethreshold=5_threshold=10.root", "dcr_ureadout_bias_voltage=39.2_biasdac=2040_basethreshold=5_threshold=10.root")...
+ --- opening decoded file: ureadout_bias_voltage=39.2_biasdac=2040_basethreshold=5_threshold=10.root
+ --- found 22244 entries in tree 
+ --- welcome to ALCOR decoder 
+ --- opening input file: ureadout_bias_voltage=40.2_biasdac=2092_basethreshold=5_threshold=10.chip_2.channel_17.alcor.dat
+ --- opening output file: ureadout_bias_voltage=40.2_biasdac=2092_basethreshold=5_threshold=10.root
+ --- all done, so long 
+ --- integrated seconds: 0.995738
+
+Processing /home/eic/alcor/alcor-utils/measure/2023-characterisation/ureadout_dcr_analysis.C("ureadout_bias_voltage=39.7_biasdac=2066_basethreshold=5_threshold=10.root", "dcr_ureadout_bias_voltage=39.7_biasdac=2066_basethreshold=5_threshold=10.root")...
+ --- opening decoded file: ureadout_bias_voltage=39.7_biasdac=2066_basethreshold=5_threshold=10.root
+ --- found 30523 entries in tree 
+ --- welcome to ALCOR decoder 
+ --- opening input file: ureadout_bias_voltage=40.7_biasdac=2118_basethreshold=5_threshold=10.chip_2.channel_17.alcor.dat
+ --- opening output file: ureadout_bias_voltage=40.7_biasdac=2118_basethreshold=5_threshold=10.root
+ --- all done, so long 
+ --- integrated seconds: 0.995533
+
+Processing /home/eic/alcor/alcor-utils/measure/2023-characterisation/ureadout_dcr_analysis.C("ureadout_bias_voltage=40.2_biasdac=2092_basethreshold=5_threshold=10.root", "dcr_ureadout_bias_voltage=40.2_biasdac=2092_basethreshold=5_threshold=10.root")...
+ --- opening decoded file: ureadout_bias_voltage=40.2_biasdac=2092_basethreshold=5_threshold=10.root
+ --- found 32063 entries in tree 
+ --- all done, so long 
+
+Processing /home/eic/alcor/alcor-utils/measure/2023-characterisation/ureadout_dcr_analysis.C("ureadout_bias_voltage=40.7_biasdac=2118_basethreshold=5_threshold=10.root", "dcr_ureadout_bias_voltage=40.7_biasdac=2118_basethreshold=5_threshold=10.root")...
+ --- welcome to ALCOR decoder 
+ --- opening input file: ureadout_bias_voltage=41.2_biasdac=2144_basethreshold=5_threshold=10.chip_2.channel_17.alcor.dat
+ --- opening output file: ureadout_bias_voltage=41.2_biasdac=2144_basethreshold=5_threshold=10.root
+ --- opening decoded file: ureadout_bias_voltage=40.7_biasdac=2118_basethreshold=5_threshold=10.root
+ --- found 36851 entries in tree 
+ --- integrated seconds: 0.99543
+ --- welcome to ALCOR decoder 
+ --- opening input file: ureadout_bias_voltage=41.7_biasdac=2170_basethreshold=5_threshold=10.chip_2.channel_17.alcor.dat
+ --- opening output file: ureadout_bias_voltage=41.7_biasdac=2170_basethreshold=5_threshold=10.root
+ --- all done, so long 
+ --- integrated seconds: 0.994611
+
+Processing /home/eic/alcor/alcor-utils/measure/2023-characterisation/ureadout_dcr_analysis.C("ureadout_bias_voltage=41.2_biasdac=2144_basethreshold=5_threshold=10.root", "dcr_ureadout_bias_voltage=41.2_biasdac=2144_basethreshold=5_threshold=10.root")...
+ --- opening decoded file: ureadout_bias_voltage=41.2_biasdac=2144_basethreshold=5_threshold=10.root
+ --- found 43277 entries in tree 
+ --- all done, so long 
+
+Processing /home/eic/alcor/alcor-utils/measure/2023-characterisation/ureadout_dcr_analysis.C("ureadout_bias_voltage=41.7_biasdac=2170_basethreshold=5_threshold=10.root", "dcr_ureadout_bias_voltage=41.7_biasdac=2170_basethreshold=5_threshold=10.root")...
+ --- welcome to ALCOR decoder 
+ --- opening input file: ureadout_bias_voltage=42.2_biasdac=2196_basethreshold=5_threshold=10.chip_2.channel_17.alcor.dat
+ --- opening output file: ureadout_bias_voltage=42.2_biasdac=2196_basethreshold=5_threshold=10.root
+ --- integrated seconds: 0.999936
+ --- opening decoded file: ureadout_bias_voltage=41.7_biasdac=2170_basethreshold=5_threshold=10.root
+ --- all done, so long 
+ --- found 48936 entries in tree 
+
+Processing /home/eic/alcor/alcor-utils/measure/2023-characterisation/ureadout_dcr_analysis.C("ureadout_bias_voltage=42.2_biasdac=2196_basethreshold=5_threshold=10.root", "dcr_ureadout_bias_voltage=42.2_biasdac=2196_basethreshold=5_threshold=10.root")...
+ --- opening decoded file: ureadout_bias_voltage=42.2_biasdac=2196_basethreshold=5_threshold=10.root
+ --- found 55688 entries in tree 
+ --- welcome to ALCOR decoder 
+ --- opening input file: ureadout_bias_voltage=42.7_biasdac=2222_basethreshold=5_threshold=10.chip_2.channel_17.alcor.dat
+ --- opening output file: ureadout_bias_voltage=42.7_biasdac=2222_basethreshold=5_threshold=10.root
+ --- integrated seconds: 0.994714
+ --- all done, so long 
+
+Processing /home/eic/alcor/alcor-utils/measure/2023-characterisation/ureadout_dcr_analysis.C("ureadout_bias_voltage=42.7_biasdac=2222_basethreshold=5_threshold=10.root", "dcr_ureadout_bias_voltage=42.7_biasdac=2222_basethreshold=5_threshold=10.root")...
+ --- opening decoded file: ureadout_bias_voltage=42.7_biasdac=2222_basethreshold=5_threshold=10.root
+ --- found 63434 entries in tree 
+ --- welcome to ALCOR decoder 
+ --- opening input file: ureadout_bias_voltage=43.2_biasdac=2248_basethreshold=5_threshold=10.chip_2.channel_17.alcor.dat
+ --- opening output file: ureadout_bias_voltage=43.2_biasdac=2248_basethreshold=5_threshold=10.root
+ --- integrated seconds: 0.994714
+ --- all done, so long 
+
+Processing /home/eic/alcor/alcor-utils/measure/2023-characterisation/ureadout_dcr_analysis.C("ureadout_bias_voltage=43.2_biasdac=2248_basethreshold=5_threshold=10.root", "dcr_ureadout_bias_voltage=43.2_biasdac=2248_basethreshold=5_threshold=10.root")...
+ --- opening decoded file: ureadout_bias_voltage=43.2_biasdac=2248_basethreshold=5_threshold=10.root
+ --- found 71347 entries in tree 
+ --- welcome to ALCOR decoder 
+ --- opening input file: ureadout_bias_voltage=43.7_biasdac=2274_basethreshold=5_threshold=10.chip_2.channel_17.alcor.dat
+ --- opening output file: ureadout_bias_voltage=43.7_biasdac=2274_basethreshold=5_threshold=10.root
+ --- integrated seconds: 0.995021
+ --- all done, so long 
+
+Processing /home/eic/alcor/alcor-utils/measure/2023-characterisation/ureadout_dcr_analysis.C("ureadout_bias_voltage=43.7_biasdac=2274_basethreshold=5_threshold=10.root", "dcr_ureadout_bias_voltage=43.7_biasdac=2274_basethreshold=5_threshold=10.root")...

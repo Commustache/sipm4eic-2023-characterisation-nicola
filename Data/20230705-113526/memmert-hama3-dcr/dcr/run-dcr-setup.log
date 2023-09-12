@@ -1,0 +1,1333 @@
+ --- running run-memmert-hama3-setup DCR setup  
+ --- progam kc705 FPGA ---
+ programming target 210203A62F62A
+ using .bit file: /home/eic/alcor/alcor-utils/firmware/new.bit
+
+****** Vivado Lab Edition v2021.2 (64-bit)
+  **** SW Build 3367213 on Tue Oct 19 02:47:39 MDT 2021
+    ** Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+
+source /tmp/program.old.tcl
+# open_hw_manager
+# connect_hw_server -allow_non_jtag
+INFO: [Labtools 27-2285] Connecting to hw_server url TCP:localhost:3121
+INFO: [Labtools 27-2222] Launching hw_server...
+INFO: [Labtools 27-2221] Launch Output:
+
+****** Xilinx hw_server v2021.2
+  **** Build date : Oct 19 2021 at 03:13:42
+    ** Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+
+
+INFO: [Labtools 27-3415] Connecting to cs_server url TCP:localhost:3042
+INFO: [Labtools 27-3417] Launching cs_server...
+INFO: [Labtools 27-2221] Launch Output:
+
+
+******** Xilinx cs_server v2021.2.0
+  ****** Build date   : Sep 27 2021-23:44:20
+    **** Build number : 2021.2.1632779060
+      ** Copyright 2017-2023 Xilinx, Inc. All Rights Reserved.
+
+
+
+# current_hw_target [get_hw_targets */xilinx_tcf/Digilent/210203A62F62A]
+# open_hw_target
+INFO: [Labtoolstcl 44-466] Opening hw_target localhost:3121/xilinx_tcf/Digilent/210203A62F62A
+# current_hw_device [get_hw_devices xc7k325t_0]
+# refresh_hw_device -update_hw_probes false [lindex [get_hw_devices xc7k325t_0] 0]
+INFO: [Labtools 27-2302] Device xc7k325t (JTAG device index = 0) is programmed with a design that has 7 ILA core(s).
+# set_property PROBES.FILE {/home/eic/alcor/alcor-utils/firmware/new.ltx} [get_hw_devices xc7k325t_0]
+# set_property FULL_PROBES.FILE {/home/eic/alcor/alcor-utils/firmware/new.ltx} [get_hw_devices xc7k325t_0]
+# set_property PROGRAM.FILE {/home/eic/alcor/alcor-utils/firmware/new.bit} [get_hw_devices xc7k325t_0]
+# program_hw_devices [get_hw_devices xc7k325t_0]
+INFO: [Labtools 27-3164] End of startup status: HIGH
+# refresh_hw_device [get_hw_devices xc7k325t_0]
+INFO: [Labtools 27-2302] Device xc7k325t (JTAG device index = 0) is programmed with a design that has 7 ILA core(s).
+# disconnect_hw_server
+# close_hw_manager
+INFO: [Common 17-206] Exiting vivado_lab at Wed Jul  5 11:35:40 2023...
+ --- running memmert baseline calibration: /au/measure/2023-characterisation/run-baseline-calibration.sh 
+ --- 
+1688549747 | Wed  5 Jul 11:35:47 CEST 2023 
+ --- 
+ --- really running run-memmert-hama3-setup DCR setup 
+ --- 
+1688550242 | Wed  5 Jul 11:44:02 CEST 2023 
+ --- 
+ --- 
+ --- running HAMA3 DCR scan on chip 2 
+ --- 
+ --- 
+ --- running ureadout DCR vbias scan: chip 2 channel A1 
+ --- 
+ --- starting loops for vbias scan 
+     BIAS_VOLTAGES: 48.0 48.5 49.0 49.5 50.0 50.5 51.0 51.5 52.0 52.5 53.0 53.5 54.0 54.5 55.0 55.5 56.0 56.5 57.0 57.5 58.0  
+     DELTA_THRESHOLDS: 5 
+ --- 
+     BASE_THRESHOLD: 0 
+     THRESHOLD_SETTINGS: --delta_threshold 
+     REPEAT: 1 
+     INTEGRATED: 1.0 
+     OPMODE: 1 
+     DELETE RAW/DECODED DATA: true/true 
+ --- 
+ --- V1 70.0: V1 70.0
+ --- I1 0.05: I1 0.05
+ --- OP1 1: OP1 1
+ --- ureadout: ureadout_bias_voltage=48.0_biasdac=2498_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=48.0_biasdac=2498_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=48.5_biasdac=2524_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=48.5_biasdac=2524_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=49.0_biasdac=2550_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=49.0_biasdac=2550_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=49.5_biasdac=2576_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=49.5_biasdac=2576_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=50.0_biasdac=2602_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=50.0_biasdac=2602_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=50.5_biasdac=2628_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=50.5_biasdac=2628_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51.0_biasdac=2654_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51.0_biasdac=2654_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51.5_biasdac=2680_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51.5_biasdac=2680_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=52.0_biasdac=2706_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=52.0_biasdac=2706_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=52.5_biasdac=2732_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=52.5_biasdac=2732_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=53.0_biasdac=2758_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=53.0_biasdac=2758_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=53.5_biasdac=2784_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=53.5_biasdac=2784_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=54.0_biasdac=2810_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=54.0_biasdac=2810_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=54.5_biasdac=2836_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=54.5_biasdac=2836_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=55.0_biasdac=2862_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=55.0_biasdac=2862_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=55.5_biasdac=2888_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=55.5_biasdac=2888_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=56.0_biasdac=2914_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=56.0_biasdac=2914_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=56.5_biasdac=2940_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=56.5_biasdac=2940_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=57.0_biasdac=2966_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=57.0_biasdac=2966_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=57.5_biasdac=2992_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=57.5_biasdac=2992_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=58.0_biasdac=3018_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=58.0_biasdac=3018_basethreshold=0_threshold=5.chip_2.channel_27 
+
+Processing /home/eic/alcor/alcor-utils/measure/2023-characterisation/ureadout_dcr_create_tree.C("chip2-A1", "chip2-A1.ureadout_dcr_scan.tree.root")...
+processing: dcr_ureadout_bias_voltage=56.5_biasdac=2940_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=58.0_biasdac=3018_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=57.0_biasdac=2966_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=57.5_biasdac=2992_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=54.5_biasdac=2836_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=48.5_biasdac=2524_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=50.5_biasdac=2628_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=53.0_biasdac=2758_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=50.0_biasdac=2602_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=49.5_biasdac=2576_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51.5_biasdac=2680_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=52.5_biasdac=2732_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=49.0_biasdac=2550_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=55.0_biasdac=2862_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51.0_biasdac=2654_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=54.0_biasdac=2810_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=48.0_biasdac=2498_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=52.0_biasdac=2706_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=56.0_biasdac=2914_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=55.5_biasdac=2888_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=53.5_biasdac=2784_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+real 72.81
+user 37.25
+sys 7.69
+ --- 
+ --- running ureadout DCR threshold scan: chip 2 channel A1 
+ --- 
+ --- starting loops for threshold scan 
+     BIAS_VOLTAGES: 51 
+     DELTA_THRESHOLDS: 1 3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51 53 55 57 59 61 63  
+ --- 
+     BASE_THRESHOLD: 0 
+     THRESHOLD_SETTINGS: --delta_threshold 
+     REPEAT: 1 
+     INTEGRATED: 1.0 
+     OPMODE: 1 
+     DELETE RAW/DECODED DATA: true/true 
+ --- 
+ --- V1 70.0: V1 70.0
+ --- I1 0.05: I1 0.05
+ --- OP1 1: OP1 1
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=1.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=1.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=3.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=3.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=5.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=7.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=7.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=9.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=9.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=11.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=11.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=13.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=13.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=15.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=15.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=17.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=17.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=19.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=19.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=21.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=21.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=23.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=23.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=25.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=25.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=27.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=27.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=29.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=29.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=31.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=31.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=33.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=33.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=35.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=35.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=37.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=37.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=39.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=39.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=41.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=41.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=43.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=43.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=45.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=45.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=47.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=47.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=49.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=49.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=51.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=51.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=53.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=53.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=55.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=55.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=57.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=57.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=59.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=59.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=61.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=61.chip_2.channel_27 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=63.chip_2.channel_27 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=63.chip_2.channel_27 
+
+Processing /home/eic/alcor/alcor-utils/measure/2023-characterisation/ureadout_dcr_create_tree.C("chip2-A1", "chip2-A1.ureadout_dcr_scan.tree.root")...
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=53.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=13.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=41.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=29.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=1.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=11.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=45.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=59.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=27.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=47.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=15.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=9.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=33.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=39.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=25.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=43.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=51.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=17.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=35.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=7.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=31.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=57.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=49.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=55.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=21.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=37.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=63.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=19.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=23.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=3.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=61.root
+real 53.48
+user 58.63
+sys 10.61
+ --- 
+ --- running ureadout DCR vbias scan: chip 2 channel A2 
+ --- 
+ --- starting loops for vbias scan 
+     BIAS_VOLTAGES: 48.0 48.5 49.0 49.5 50.0 50.5 51.0 51.5 52.0 52.5 53.0 53.5 54.0 54.5 55.0 55.5 56.0 56.5 57.0 57.5 58.0  
+     DELTA_THRESHOLDS: 5 
+ --- 
+     BASE_THRESHOLD: 0 
+     THRESHOLD_SETTINGS: --delta_threshold 
+     REPEAT: 1 
+     INTEGRATED: 1.0 
+     OPMODE: 1 
+     DELETE RAW/DECODED DATA: true/true 
+ --- 
+ --- V1 70.0: V1 70.0
+ --- I1 0.05: I1 0.05
+ --- OP1 1: OP1 1
+ --- ureadout: ureadout_bias_voltage=48.0_biasdac=2498_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=48.0_biasdac=2498_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=48.5_biasdac=2524_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=48.5_biasdac=2524_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=49.0_biasdac=2550_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=49.0_biasdac=2550_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=49.5_biasdac=2576_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=49.5_biasdac=2576_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=50.0_biasdac=2602_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=50.0_biasdac=2602_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=50.5_biasdac=2628_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=50.5_biasdac=2628_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51.0_biasdac=2654_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51.0_biasdac=2654_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51.5_biasdac=2680_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51.5_biasdac=2680_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=52.0_biasdac=2706_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=52.0_biasdac=2706_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=52.5_biasdac=2732_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=52.5_biasdac=2732_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=53.0_biasdac=2758_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=53.0_biasdac=2758_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=53.5_biasdac=2784_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=53.5_biasdac=2784_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=54.0_biasdac=2810_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=54.0_biasdac=2810_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=54.5_biasdac=2836_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=54.5_biasdac=2836_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=55.0_biasdac=2862_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=55.0_biasdac=2862_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=55.5_biasdac=2888_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=55.5_biasdac=2888_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=56.0_biasdac=2914_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=56.0_biasdac=2914_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=56.5_biasdac=2940_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=56.5_biasdac=2940_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=57.0_biasdac=2966_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=57.0_biasdac=2966_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=57.5_biasdac=2992_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=57.5_biasdac=2992_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=58.0_biasdac=3018_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=58.0_biasdac=3018_basethreshold=0_threshold=5.chip_2.channel_23 
+
+Processing /home/eic/alcor/alcor-utils/measure/2023-characterisation/ureadout_dcr_create_tree.C("chip2-A2", "chip2-A2.ureadout_dcr_scan.tree.root")...
+processing: dcr_ureadout_bias_voltage=56.5_biasdac=2940_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=58.0_biasdac=3018_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=57.0_biasdac=2966_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=57.5_biasdac=2992_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=54.5_biasdac=2836_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=48.5_biasdac=2524_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=50.5_biasdac=2628_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=53.0_biasdac=2758_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=50.0_biasdac=2602_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=49.5_biasdac=2576_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51.5_biasdac=2680_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=52.5_biasdac=2732_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=49.0_biasdac=2550_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=55.0_biasdac=2862_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51.0_biasdac=2654_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=54.0_biasdac=2810_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=48.0_biasdac=2498_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=52.0_biasdac=2706_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=56.0_biasdac=2914_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=55.5_biasdac=2888_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=53.5_biasdac=2784_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+real 66.49
+user 30.84
+sys 6.66
+ --- 
+ --- running ureadout DCR threshold scan: chip 2 channel A2 
+ --- 
+ --- starting loops for threshold scan 
+     BIAS_VOLTAGES: 51 
+     DELTA_THRESHOLDS: 1 3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51 53 55 57 59 61 63  
+ --- 
+     BASE_THRESHOLD: 0 
+     THRESHOLD_SETTINGS: --delta_threshold 
+     REPEAT: 1 
+     INTEGRATED: 1.0 
+     OPMODE: 1 
+     DELETE RAW/DECODED DATA: true/true 
+ --- 
+ --- V1 70.0: V1 70.0
+ --- I1 0.05: I1 0.05
+ --- OP1 1: OP1 1
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=1.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=1.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=3.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=3.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=5.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=7.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=7.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=9.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=9.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=11.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=11.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=13.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=13.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=15.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=15.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=17.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=17.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=19.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=19.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=21.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=21.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=23.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=23.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=25.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=25.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=27.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=27.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=29.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=29.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=31.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=31.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=33.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=33.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=35.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=35.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=37.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=37.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=39.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=39.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=41.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=41.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=43.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=43.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=45.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=45.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=47.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=47.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=49.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=49.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=51.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=51.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=53.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=53.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=55.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=55.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=57.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=57.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=59.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=59.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=61.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=61.chip_2.channel_23 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=63.chip_2.channel_23 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=63.chip_2.channel_23 
+
+Processing /home/eic/alcor/alcor-utils/measure/2023-characterisation/ureadout_dcr_create_tree.C("chip2-A2", "chip2-A2.ureadout_dcr_scan.tree.root")...
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=53.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=13.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=41.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=29.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=1.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=11.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=45.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=59.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=27.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=47.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=15.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=9.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=33.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=39.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=25.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=43.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=51.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=17.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=35.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=7.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=31.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=57.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=49.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=55.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=21.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=37.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=63.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=19.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=23.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=3.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=61.root
+real 55.04
+user 56.66
+sys 10.08
+ --- 
+ --- running ureadout DCR vbias scan: chip 2 channel A3 
+ --- 
+ --- starting loops for vbias scan 
+     BIAS_VOLTAGES: 48.0 48.5 49.0 49.5 50.0 50.5 51.0 51.5 52.0 52.5 53.0 53.5 54.0 54.5 55.0 55.5 56.0 56.5 57.0 57.5 58.0  
+     DELTA_THRESHOLDS: 5 
+ --- 
+     BASE_THRESHOLD: 0 
+     THRESHOLD_SETTINGS: --delta_threshold 
+     REPEAT: 1 
+     INTEGRATED: 1.0 
+     OPMODE: 1 
+     DELETE RAW/DECODED DATA: true/true 
+ --- 
+ --- V1 70.0: V1 70.0
+ --- I1 0.05: I1 0.05
+ --- OP1 1: OP1 1
+ --- ureadout: ureadout_bias_voltage=48.0_biasdac=2498_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=48.0_biasdac=2498_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=48.5_biasdac=2524_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=48.5_biasdac=2524_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=49.0_biasdac=2550_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=49.0_biasdac=2550_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=49.5_biasdac=2576_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=49.5_biasdac=2576_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=50.0_biasdac=2602_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=50.0_biasdac=2602_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=50.5_biasdac=2628_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=50.5_biasdac=2628_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51.0_biasdac=2654_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51.0_biasdac=2654_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51.5_biasdac=2680_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51.5_biasdac=2680_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=52.0_biasdac=2706_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=52.0_biasdac=2706_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=52.5_biasdac=2732_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=52.5_biasdac=2732_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=53.0_biasdac=2758_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=53.0_biasdac=2758_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=53.5_biasdac=2784_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=53.5_biasdac=2784_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=54.0_biasdac=2810_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=54.0_biasdac=2810_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=54.5_biasdac=2836_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=54.5_biasdac=2836_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=55.0_biasdac=2862_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=55.0_biasdac=2862_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=55.5_biasdac=2888_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=55.5_biasdac=2888_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=56.0_biasdac=2914_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=56.0_biasdac=2914_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=56.5_biasdac=2940_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=56.5_biasdac=2940_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=57.0_biasdac=2966_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=57.0_biasdac=2966_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=57.5_biasdac=2992_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=57.5_biasdac=2992_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=58.0_biasdac=3018_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=58.0_biasdac=3018_basethreshold=0_threshold=5.chip_2.channel_26 
+
+Processing /home/eic/alcor/alcor-utils/measure/2023-characterisation/ureadout_dcr_create_tree.C("chip2-A3", "chip2-A3.ureadout_dcr_scan.tree.root")...
+processing: dcr_ureadout_bias_voltage=56.5_biasdac=2940_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=58.0_biasdac=3018_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=57.0_biasdac=2966_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=57.5_biasdac=2992_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=54.5_biasdac=2836_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=48.5_biasdac=2524_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=50.5_biasdac=2628_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=53.0_biasdac=2758_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=50.0_biasdac=2602_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=49.5_biasdac=2576_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51.5_biasdac=2680_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=52.5_biasdac=2732_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=49.0_biasdac=2550_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=55.0_biasdac=2862_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51.0_biasdac=2654_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=54.0_biasdac=2810_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=48.0_biasdac=2498_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=52.0_biasdac=2706_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=56.0_biasdac=2914_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=55.5_biasdac=2888_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=53.5_biasdac=2784_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+real 63.06
+user 31.36
+sys 6.82
+ --- 
+ --- running ureadout DCR threshold scan: chip 2 channel A3 
+ --- 
+ --- starting loops for threshold scan 
+     BIAS_VOLTAGES: 51 
+     DELTA_THRESHOLDS: 1 3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51 53 55 57 59 61 63  
+ --- 
+     BASE_THRESHOLD: 0 
+     THRESHOLD_SETTINGS: --delta_threshold 
+     REPEAT: 1 
+     INTEGRATED: 1.0 
+     OPMODE: 1 
+     DELETE RAW/DECODED DATA: true/true 
+ --- 
+ --- V1 70.0: V1 70.0
+ --- I1 0.05: I1 0.05
+ --- OP1 1: OP1 1
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=1.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=1.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=3.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=3.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=5.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=7.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=7.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=9.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=9.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=11.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=11.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=13.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=13.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=15.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=15.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=17.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=17.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=19.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=19.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=21.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=21.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=23.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=23.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=25.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=25.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=27.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=27.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=29.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=29.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=31.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=31.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=33.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=33.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=35.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=35.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=37.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=37.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=39.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=39.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=41.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=41.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=43.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=43.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=45.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=45.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=47.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=47.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=49.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=49.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=51.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=51.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=53.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=53.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=55.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=55.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=57.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=57.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=59.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=59.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=61.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=61.chip_2.channel_26 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=63.chip_2.channel_26 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=63.chip_2.channel_26 
+
+Processing /home/eic/alcor/alcor-utils/measure/2023-characterisation/ureadout_dcr_create_tree.C("chip2-A3", "chip2-A3.ureadout_dcr_scan.tree.root")...
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=53.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=13.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=41.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=29.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=1.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=11.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=45.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=59.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=27.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=47.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=15.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=9.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=33.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=39.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=25.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=43.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=51.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=17.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=35.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=7.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=31.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=57.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=49.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=55.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=21.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=37.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=63.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=19.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=23.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=3.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=61.root
+real 58.45
+user 57.52
+sys 10.53
+ --- 
+ --- running ureadout DCR vbias scan: chip 2 channel A4 
+ --- 
+ --- starting loops for vbias scan 
+     BIAS_VOLTAGES: 48.0 48.5 49.0 49.5 50.0 50.5 51.0 51.5 52.0 52.5 53.0 53.5 54.0 54.5 55.0 55.5 56.0 56.5 57.0 57.5 58.0  
+     DELTA_THRESHOLDS: 5 
+ --- 
+     BASE_THRESHOLD: 0 
+     THRESHOLD_SETTINGS: --delta_threshold 
+     REPEAT: 1 
+     INTEGRATED: 1.0 
+     OPMODE: 1 
+     DELETE RAW/DECODED DATA: true/true 
+ --- 
+ --- V1 70.0: V1 70.0
+ --- I1 0.05: I1 0.05
+ --- OP1 1: OP1 1
+ --- ureadout: ureadout_bias_voltage=48.0_biasdac=2498_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=48.0_biasdac=2498_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=48.5_biasdac=2524_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=48.5_biasdac=2524_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=49.0_biasdac=2550_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=49.0_biasdac=2550_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=49.5_biasdac=2576_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=49.5_biasdac=2576_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=50.0_biasdac=2602_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=50.0_biasdac=2602_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=50.5_biasdac=2628_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=50.5_biasdac=2628_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51.0_biasdac=2654_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51.0_biasdac=2654_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51.5_biasdac=2680_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51.5_biasdac=2680_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=52.0_biasdac=2706_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=52.0_biasdac=2706_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=52.5_biasdac=2732_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=52.5_biasdac=2732_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=53.0_biasdac=2758_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=53.0_biasdac=2758_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=53.5_biasdac=2784_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=53.5_biasdac=2784_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=54.0_biasdac=2810_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=54.0_biasdac=2810_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=54.5_biasdac=2836_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=54.5_biasdac=2836_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=55.0_biasdac=2862_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=55.0_biasdac=2862_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=55.5_biasdac=2888_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=55.5_biasdac=2888_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=56.0_biasdac=2914_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=56.0_biasdac=2914_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=56.5_biasdac=2940_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=56.5_biasdac=2940_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=57.0_biasdac=2966_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=57.0_biasdac=2966_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=57.5_biasdac=2992_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=57.5_biasdac=2992_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=58.0_biasdac=3018_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=58.0_biasdac=3018_basethreshold=0_threshold=5.chip_2.channel_22 
+
+Processing /home/eic/alcor/alcor-utils/measure/2023-characterisation/ureadout_dcr_create_tree.C("chip2-A4", "chip2-A4.ureadout_dcr_scan.tree.root")...
+processing: dcr_ureadout_bias_voltage=56.5_biasdac=2940_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=58.0_biasdac=3018_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=57.0_biasdac=2966_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=57.5_biasdac=2992_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=54.5_biasdac=2836_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=48.5_biasdac=2524_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=50.5_biasdac=2628_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=53.0_biasdac=2758_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=50.0_biasdac=2602_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=49.5_biasdac=2576_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51.5_biasdac=2680_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=52.5_biasdac=2732_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=49.0_biasdac=2550_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=55.0_biasdac=2862_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51.0_biasdac=2654_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=54.0_biasdac=2810_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=48.0_biasdac=2498_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=52.0_biasdac=2706_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=56.0_biasdac=2914_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=55.5_biasdac=2888_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=53.5_biasdac=2784_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+real 91.55
+user 30.68
+sys 6.64
+ --- 
+ --- running ureadout DCR threshold scan: chip 2 channel A4 
+ --- 
+ --- starting loops for threshold scan 
+     BIAS_VOLTAGES: 51 
+     DELTA_THRESHOLDS: 1 3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51 53 55 57 59 61 63  
+ --- 
+     BASE_THRESHOLD: 0 
+     THRESHOLD_SETTINGS: --delta_threshold 
+     REPEAT: 1 
+     INTEGRATED: 1.0 
+     OPMODE: 1 
+     DELETE RAW/DECODED DATA: true/true 
+ --- 
+ --- V1 70.0: V1 70.0
+ --- I1 0.05: I1 0.05
+ --- OP1 1: OP1 1
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=1.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=1.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=3.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=3.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=5.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=7.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=7.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=9.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=9.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=11.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=11.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=13.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=13.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=15.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=15.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=17.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=17.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=19.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=19.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=21.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=21.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=23.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=23.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=25.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=25.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=27.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=27.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=29.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=29.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=31.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=31.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=33.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=33.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=35.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=35.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=37.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=37.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=39.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=39.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=41.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=41.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=43.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=43.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=45.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=45.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=47.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=47.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=49.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=49.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=51.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=51.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=53.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=53.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=55.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=55.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=57.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=57.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=59.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=59.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=61.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=61.chip_2.channel_22 
+ --- ureadout: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=63.chip_2.channel_22 
+ --- decode and analyse: ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=63.chip_2.channel_22 
+
+Processing /home/eic/alcor/alcor-utils/measure/2023-characterisation/ureadout_dcr_create_tree.C("chip2-A4", "chip2-A4.ureadout_dcr_scan.tree.root")...
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=53.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=13.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=41.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=29.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=1.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=11.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=45.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=59.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=27.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=47.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=15.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=9.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=33.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=39.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=25.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=43.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=51.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=17.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=35.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=7.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=31.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=57.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=49.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=55.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=21.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=37.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=63.root
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=19.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=23.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=3.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=5.root
+Warning in <Fit>: Fit data is empty 
+processing: dcr_ureadout_bias_voltage=51_biasdac=2654_basethreshold=0_threshold=61.root
+real 59.99
+user 48.73
+sys 10.22
+
+Processing /home/eic/alcor/alcor-utils/measure/2023-characterisation/drawing_routines/draw_dcr_scan.C(".", 2, 34, 62)...
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-A1.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-A2.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-A3.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-A4.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-B1.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-B2.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-B3.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-B4.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-C1.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-C2.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-C3.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-C4.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-D1.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-D2.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-D3.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-D4.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-E1.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-E2.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-E3.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-E4.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-F1.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-F2.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-F3.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-F4.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-G1.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-G2.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-G3.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-G4.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-H1.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-H2.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-H3.vbias_scan.dat.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-H4.vbias_scan.dat.tree.root does not exist
+Info in <TCanvas::Print>: png file cmap.png has been created
+Info in <TCanvas::Print>: png file call.png has been created
+Info in <TCanvas::Print>: png file cpro.png has been created
+32
+32
+32
+32
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-B1.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-B2.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-B3.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-B4.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-C1.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-C2.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-C3.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-C4.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-D1.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-D2.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-D3.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-D4.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-E1.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-E2.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-E3.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-E4.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-F1.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-F2.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-F3.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-F4.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-G1.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-G2.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-G3.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-G4.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-H1.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-H2.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-H3.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-H4.ureadout_dcr_scan.tree.root does not exist
+Info in <TCanvas::Print>: png file cthr0.png has been created
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c
+32
+32
+32
+32
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-B1.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-B2.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-B3.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-B4.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-C1.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-C2.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-C3.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-C4.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-D1.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-D2.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-D3.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-D4.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-E1.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-E2.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-E3.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-E4.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-F1.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-F2.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-F3.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-F4.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-G1.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-G2.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-G3.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-G4.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-H1.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-H2.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-H3.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/threshold_scan/chip2-H4.ureadout_dcr_scan.tree.root does not exist
+Info in <TCanvas::Print>: png file cthr1.png has been created
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c
+21
+21
+21
+21
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-B1.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-B2.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-B3.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-B4.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-C1.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-C2.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-C3.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-C4.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-D1.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-D2.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-D3.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-D4.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-E1.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-E2.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-E3.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-E4.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-F1.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-F2.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-F3.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-F4.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-G1.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-G2.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-G3.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-G4.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-H1.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-H2.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-H3.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-H4.ureadout_dcr_scan.tree.root does not exist
+Info in <TCanvas::Print>: png file cbias3.png has been created
+Warning in <TCanvas::Constructor>: Deleting canvas with same name: c
+21
+21
+21
+21
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-B1.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-B2.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-B3.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-B4.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-C1.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-C2.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-C3.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-C4.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-D1.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-D2.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-D3.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-D4.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-E1.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-E2.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-E3.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-E4.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-F1.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-F2.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-F3.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-F4.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-G1.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-G2.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-G3.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-G4.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-H1.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-H2.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-H3.ureadout_dcr_scan.tree.root does not exist
+Error in <TFile::TFile>: file ./rate/vbias_scan/chip2-H4.ureadout_dcr_scan.tree.root does not exist
+Info in <TCanvas::Print>: png file cbias5.png has been created
+ --- 
+ --- running ureadout DCR vbias scan: chip 2 channel B1 
+ --- 
+ --- starting loops for vbias scan 
+     BIAS_VOLTAGES: 48.0 48.5 49.0 49.5 50.0 50.5 51.0 51.5 52.0 52.5 53.0 53.5 54.0 54.5 55.0 55.5 56.0 56.5 57.0  
+     DELTA_THRESHOLDS: 5 
+ --- 
+     BASE_THRESHOLD: 0 
+     THRESHOLD_SETTINGS: --delta_threshold 
+     REPEAT: 1 
+     INTEGRATED: 1.0 
+     OPMODE: 1 
+     DELETE RAW/DECODED DATA: true/true 
+ --- 
+ --- V1 70.0: V1 70.0
+ --- I1 0.05: I1 0.05
+ --- OP1 1: OP1 1
+ --- ureadout: ureadout_bias_voltage=48.0_biasdac=2498_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=48.0_biasdac=2498_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=48.5_biasdac=2524_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=48.5_biasdac=2524_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=49.0_biasdac=2550_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=49.0_biasdac=2550_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=49.5_biasdac=2576_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=49.5_biasdac=2576_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=50.0_biasdac=2602_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=50.0_biasdac=2602_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=50.5_biasdac=2628_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=50.5_biasdac=2628_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=51.0_biasdac=2654_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=51.0_biasdac=2654_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=51.5_biasdac=2680_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=51.5_biasdac=2680_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=52.0_biasdac=2706_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=52.0_biasdac=2706_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=52.5_biasdac=2732_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=52.5_biasdac=2732_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=53.0_biasdac=2758_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=53.0_biasdac=2758_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=53.5_biasdac=2784_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=53.5_biasdac=2784_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=54.0_biasdac=2810_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=54.0_biasdac=2810_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=54.5_biasdac=2836_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=54.5_biasdac=2836_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=55.0_biasdac=2862_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=55.0_biasdac=2862_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=55.5_biasdac=2888_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=55.5_biasdac=2888_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=56.0_biasdac=2914_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=56.0_biasdac=2914_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=56.5_biasdac=2940_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=56.5_biasdac=2940_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=57.0_biasdac=2966_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=57.0_biasdac=2966_basethreshold=0_threshold=5.chip_2.channel_25 
+
+Processing /home/eic/alcor/alcor-utils/measure/2023-characterisation/ureadout_dcr_create_tree.C("chip2-B1", "chip2-B1.ureadout_dcr_scan.tree.root")...
+processing: dcr_ureadout_bias_voltage=56.5_biasdac=2940_basethreshold=0_threshold=5.root
+processing: dcr_ureadout_bias_voltage=57.0_biasdac=2966_basethreshold=0_threshold=5.root
+processing: dcr_ureadout_bias_voltage=54.5_biasdac=2836_basethreshold=0_threshold=5.root
+processing: dcr_ureadout_bias_voltage=48.5_biasdac=2524_basethreshold=0_threshold=5.root
+processing: dcr_ureadout_bias_voltage=50.5_biasdac=2628_basethreshold=0_threshold=5.root
+processing: dcr_ureadout_bias_voltage=53.0_biasdac=2758_basethreshold=0_threshold=5.root
+processing: dcr_ureadout_bias_voltage=50.0_biasdac=2602_basethreshold=0_threshold=5.root
+processing: dcr_ureadout_bias_voltage=49.5_biasdac=2576_basethreshold=0_threshold=5.root
+processing: dcr_ureadout_bias_voltage=51.5_biasdac=2680_basethreshold=0_threshold=5.root
+processing: dcr_ureadout_bias_voltage=52.5_biasdac=2732_basethreshold=0_threshold=5.root
+processing: dcr_ureadout_bias_voltage=49.0_biasdac=2550_basethreshold=0_threshold=5.root
+processing: dcr_ureadout_bias_voltage=55.0_biasdac=2862_basethreshold=0_threshold=5.root
+processing: dcr_ureadout_bias_voltage=51.0_biasdac=2654_basethreshold=0_threshold=5.root
+processing: dcr_ureadout_bias_voltage=54.0_biasdac=2810_basethreshold=0_threshold=5.root
+processing: dcr_ureadout_bias_voltage=48.0_biasdac=2498_basethreshold=0_threshold=5.root
+processing: dcr_ureadout_bias_voltage=52.0_biasdac=2706_basethreshold=0_threshold=5.root
+processing: dcr_ureadout_bias_voltage=56.0_biasdac=2914_basethreshold=0_threshold=5.root
+processing: dcr_ureadout_bias_voltage=55.5_biasdac=2888_basethreshold=0_threshold=5.root
+processing: dcr_ureadout_bias_voltage=53.5_biasdac=2784_basethreshold=0_threshold=5.root
+real 61.89
+user 31.58
+sys 6.73
+ --- 
+ --- running ureadout DCR threshold scan: chip 2 channel B1 
+ --- 
+ --- starting loops for threshold scan 
+     BIAS_VOLTAGES: 50 
+     DELTA_THRESHOLDS: 1 3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51 53 55 57 59 61 63  
+ --- 
+     BASE_THRESHOLD: 0 
+     THRESHOLD_SETTINGS: --delta_threshold 
+     REPEAT: 1 
+     INTEGRATED: 1.0 
+     OPMODE: 1 
+     DELETE RAW/DECODED DATA: true/true 
+ --- 
+ --- V1 70.0: V1 70.0
+ --- I1 0.05: I1 0.05
+ --- OP1 1: OP1 1
+ --- ureadout: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=1.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=1.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=3.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=3.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=5.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=7.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=7.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=9.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=9.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=11.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=11.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=13.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=13.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=15.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=15.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=17.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=17.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=19.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=19.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=21.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=21.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=23.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=23.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=25.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=25.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=27.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=27.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=29.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=29.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=31.chip_2.channel_25 
+ --- decode and analyse: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=31.chip_2.channel_25 
+ --- ureadout: ureadout_bias_voltage=50_biasdac=2602_basethreshold=0_threshold=33.chip_2.channel_25 

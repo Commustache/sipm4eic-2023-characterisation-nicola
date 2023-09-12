@@ -1,0 +1,25 @@
+ --- 
+ --- START: /home/eic/DATA/2023-characterisation/actual/20230705-175037/memmert-hama3 
+ --- 
+1688572237 | Wed  5 Jul 17:50:37 CEST 2023 
+ --- 
+ --- go to -30 C: /au/memmert/memmert_go_to_minus_30.sh 
+ --- 
+ --- SCAN: /home/eic/DATA/2023-characterisation/actual/20230705-175037/memmert-hama3 
+ --- 
+1688581076 | Wed  5 Jul 20:17:56 CEST 2023 
+ --- 
+ --- starting IV setup: /au/measure/2023-characterisation/run-iv-setup.sh run-memmert-hama3-setup
+ --- starting DCR setup: /au/measure/2023-characterisation/run-dcr-setup.sh run-memmert-hama3-setup
+ --- waiting for processes to complete 
+ --- 
+ --- COMPLETED: /home/eic/DATA/2023-characterisation/actual/20230705-175037/memmert-hama3 
+ --- 
+1688586792 | Wed  5 Jul 21:53:12 CEST 2023 
+ --- 
+ --- go back to 20 C: /au/memmert/memmert_back_to_plus_20.sh 
+ --- 
+ --- DONE: /home/eic/DATA/2023-characterisation/actual/20230705-175037/memmert-hama3 
+ --- 
+1688587709 | Wed  5 Jul 22:08:29 CEST 2023 
+ --- 

@@ -1,0 +1,42 @@
+#-----------------------------------------------------------
+# Vivado Lab Edition v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:47:39 MDT 2021
+# 
+# Start of session at: Mon Aug  7 12:57:22 2023
+# Process ID: 4088213
+# Current directory: /home/eic/DATA/2023-characterisation/actual/20230807-080028/memmert-hama3/dcr
+# Command line: vivado_lab -mode batch -source /tmp/program.old.tcl
+# Log file: /home/eic/DATA/2023-characterisation/actual/20230807-080028/memmert-hama3/dcr/vivado_lab.log
+# Journal file: /home/eic/DATA/2023-characterisation/actual/20230807-080028/memmert-hama3/dcr/vivado_lab.jou
+# Running On: eicdesk01, OS: Linux, CPU Frequency: 2900.000 MHz, CPU Physical cores: 6, Host memory: 33383 MB
+#-----------------------------------------------------------
+source /tmp/program.old.tcl
+# open_hw_manager
+# connect_hw_server -allow_non_jtag
+INFO: [Labtools 27-2285] Connecting to hw_server url TCP:localhost:3121
+INFO: [Labtools 27-2222] Launching hw_server...
+INFO: [Labtools 27-2221] Launch Output:
+
+****** Xilinx hw_server v2021.2
+  **** Build date : Oct 19 2021 at 03:13:42
+    ** Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+
+
+INFO: [Labtools 27-3415] Connecting to cs_server url TCP:localhost:3042
+INFO: [Labtools 27-3417] Launching cs_server...
+INFO: [Labtools 27-2221] Launch Output:
+
+
+******** Xilinx cs_server v2021.2.0
+  ****** Build date   : Sep 27 2021-23:44:20
+    **** Build number : 2021.2.1632779060
+      ** Copyright 2017-2023 Xilinx, Inc. All Rights Reserved.
+
+
+
+# current_hw_target [get_hw_targets */xilinx_tcf/Digilent/210203A62F62A]
+# open_hw_target
+INFO: [Labtoolstcl 44-466] Opening hw_target localhost:3121/xilinx_tcf/Digilent/210203A62F62A
+# current_hw_device [get_hw_devices xc7k325t_0]
+# refresh_hw_device -update_hw_probes false [lindex [get_hw_devices xc7k325t_0] 0]
+INFO: [Labtools 27-2302] Device xc7k325t (JTAG device index = 0) is programmed with a design that has 7 ILA core(s).

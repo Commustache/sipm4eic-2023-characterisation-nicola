@@ -1,0 +1,25 @@
+ --- setting mode: 1
+ --- response: OK
+ --- mode set value: 5.0
+ --- setting temperature: 25.0
+ --- response: OK
+ --- temperature set value: 5.0
+ --- setting fan: A
+timed out
+ --- setting fan: A
+timed out
+ --- failed to set memmert to T = -30 C
+ --- setting fan: A
+ --- response: OK
+ --- fan set value: 20.0
+ --- memmert did not reach RH = 5.0 %
+ --- memmert did not reach RH = 5.0 %
+ --- memmert did not reach RH = 5.0 %
+ --- memmert did not reach RH = 5.0 %
+ --- memmert did not reach RH = 5.0 %
+ --- memmert reached RH = 5.0 %
+ --- wait 10 minutes to make sure RH is really low
+ --- setting temperature: -30.0
+ --- response: OK
+ --- temperature set value: 20.0
+ target_temperature = 20.0  current_temperature = 30.1  delta_temperature = 10.100000000000001  elapsed_time =  0

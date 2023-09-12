@@ -1,0 +1,25 @@
+ --- 
+ --- START: /home/eic/DATA/2023-characterisation/actual/20230613-093953/memmert-fbk 
+ --- 
+1686641993 | Tue 13 Jun 09:39:53 CEST 2023 
+ --- 
+ --- go to -30 C: /au/memmert/memmert_go_to_minus_30.sh 
+ --- 
+ --- SCAN: /home/eic/DATA/2023-characterisation/actual/20230613-093953/memmert-fbk 
+ --- 
+1686650209 | Tue 13 Jun 11:56:49 CEST 2023 
+ --- 
+ --- starting IV setup: /au/measure/2023-characterisation/run-iv-setup.sh run-memmert-fbk-setup
+ --- starting DCR setup: /au/measure/2023-characterisation/run-dcr-setup.sh run-memmert-fbk-setup
+ --- waiting for processes to complete 
+ --- 
+ --- COMPLETED: /home/eic/DATA/2023-characterisation/actual/20230613-093953/memmert-fbk 
+ --- 
+1686661471 | Tue 13 Jun 15:04:31 CEST 2023 
+ --- 
+ --- go back to 20 C: /au/memmert/memmert_back_to_plus_20.sh 
+ --- 
+ --- DONE: /home/eic/DATA/2023-characterisation/actual/20230613-093953/memmert-fbk 
+ --- 
+1686662498 | Tue 13 Jun 15:21:38 CEST 2023 
+ --- 

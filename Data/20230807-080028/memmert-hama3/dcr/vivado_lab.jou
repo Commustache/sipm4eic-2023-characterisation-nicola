@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado Lab Edition v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:47:39 MDT 2021
+# 
+# Start of session at: Mon Aug  7 12:57:22 2023
+# Process ID: 4088213
+# Current directory: /home/eic/DATA/2023-characterisation/actual/20230807-080028/memmert-hama3/dcr
+# Command line: vivado_lab -mode batch -source /tmp/program.old.tcl
+# Log file: /home/eic/DATA/2023-characterisation/actual/20230807-080028/memmert-hama3/dcr/vivado_lab.log
+# Journal file: /home/eic/DATA/2023-characterisation/actual/20230807-080028/memmert-hama3/dcr/vivado_lab.jou
+# Running On: eicdesk01, OS: Linux, CPU Frequency: 2900.000 MHz, CPU Physical cores: 6, Host memory: 33383 MB
+#-----------------------------------------------------------
+source /tmp/program.old.tcl

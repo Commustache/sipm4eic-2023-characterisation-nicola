@@ -1,0 +1,4512 @@
+ --- setting ALCOR filter mode: 15
+ --- opening output file: ureadout_bias_voltage=38.7_biasdac=2014_basethreshold=5_threshold=10.chip_2.channel_17.alcor.dat
+ --- opening output file: ureadout_bias_voltage=38.7_biasdac=2014_basethreshold=5_threshold=10.chip_2.channel_17.trigger.dat
+ --- status of PCR2 and PRC3 registers 
+LE1DAC = 10 | LEDACrange = 1 | LEDACVth = 1 | LE2DAC = 63
+Polarity = 1 | Gain2 = 0 | Gain1 = 0 | Offset2 = 0 | OpMode = 1 | Offset1 = 7
+ --- flushing staging buffer: 936
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329138
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 984
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332233
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 928
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329135
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 1008
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330270
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 932
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331625
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 956
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330035
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 912
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332971
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 960
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330139
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 948
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331100
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 964
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329401
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 904
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332261
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 1028
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328906
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 1000
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330027
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 924
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328339
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 896
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328691
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 864
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330451
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 896
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330219
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 944
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329175
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 988
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328638
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 964
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331494
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 1024
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330043
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 916
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328895
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1028
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331703
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 900
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330737
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 876
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331242
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 980
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329220
+ --- n_polls: 69 | n_downloads: 1
+ --- flushing staging buffer: 972
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331563
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 944
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330602
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 1044
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331926
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 972
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330150
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1064
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331854
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 1036
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332278
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 932
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329674
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 908
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328490
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 968
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328675
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1012
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330437
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 940
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331313
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 992
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329394
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1060
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331306
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 968
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331297
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 972
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330753
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 1056
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331986
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 952
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332186
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 960
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330905
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 976
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330333
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 988
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329651
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1020
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328503
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 904
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328419
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 964
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328795
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 968
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331722
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 840
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331826
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 1000
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331906
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 880
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330806
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 932
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331454
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 960
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331766
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 996
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331462
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 868
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330922
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 904
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329267
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 980
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329755
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 908
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328799
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 956
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329483
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 928
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329086
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 896
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328866
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 964
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328823
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 948
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331098
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 972
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331553
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 928
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330754
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1024
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332010
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 924
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328897
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 864
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329316
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 1012
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331089
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 1040
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331357
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 996
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330353
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 812
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330689
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 1024
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330585
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 916
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329401
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 976
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329601
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 944
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333445
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 940
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329064
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 872
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331625
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 940
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330709
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 984
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330405
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 980
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328797
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 976
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330026
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 1052
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330226
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 968
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331697
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 980
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328741
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 980
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328611
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 900
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331021
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 1000
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329599
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1016
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328330
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 904
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330947
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 992
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330502
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 908
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328468
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 892
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330202
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 920
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329135
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1024
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 338160
+ --- n_polls: 68 | n_downloads: 1
+
+ integrated: 7886 polls 
+             97 downloads 
+             0 resets 
+             23213 words 
+             92852 bytes 
+             0 rollover 
+             1.00153 seconds 
+
+      rates: 7873.96 polls/s
+             96.8519 downloads/s
+             0 resets/s
+             23177.6 words/s
+             92710.2 bytes/s
+             0 rollover/s
+
+ --- setting ALCOR filter mode: 15
+ --- opening output file: ureadout_bias_voltage=39.2_biasdac=2040_basethreshold=5_threshold=10.chip_2.channel_17.alcor.dat
+ --- opening output file: ureadout_bias_voltage=39.2_biasdac=2040_basethreshold=5_threshold=10.chip_2.channel_17.trigger.dat
+ --- status of PCR2 and PRC3 registers 
+LE1DAC = 10 | LEDACrange = 1 | LEDACVth = 1 | LE2DAC = 63
+Polarity = 1 | Gain2 = 0 | Gain1 = 0 | Offset2 = 0 | OpMode = 1 | Offset1 = 7
+ --- flushing staging buffer: 1188
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330030
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 1364
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329777
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 1364
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329406
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 1328
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329752
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 1288
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329549
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 1272
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 335608
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 1396
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331886
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 1196
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332470
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 1364
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331946
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 1340
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331366
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 1460
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329459
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1336
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333409
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 1392
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330747
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1412
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331098
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1260
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329895
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 1360
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332016
+ --- n_polls: 73 | n_downloads: 1
+ --- flushing staging buffer: 1260
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332237
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 1376
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332304
+ --- n_polls: 73 | n_downloads: 1
+ --- flushing staging buffer: 1336
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332356
+ --- n_polls: 73 | n_downloads: 1
+ --- flushing staging buffer: 1332
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333654
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1332
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331537
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 1296
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330022
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 1404
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329186
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 1364
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331210
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 1336
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331188
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 1268
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330890
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 1236
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332529
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 1296
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329130
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1372
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330314
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1200
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328076
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1396
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331235
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1364
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328938
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1308
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329844
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1256
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331957
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 1316
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331349
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 1424
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328210
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1288
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331182
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 1336
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331682
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 1268
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331890
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 1304
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329795
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1244
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329854
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1252
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331269
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 1324
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328887
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1244
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328409
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1224
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329723
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1268
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333087
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1240
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328407
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1304
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329971
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1308
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329147
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1428
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331782
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1372
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330934
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1344
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330227
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1384
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328862
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1308
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331351
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1312
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330639
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1288
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331966
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1292
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331614
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1204
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331751
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1364
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330427
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1240
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329752
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1260
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332087
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1424
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328646
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1368
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331099
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1304
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329623
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1288
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330562
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1356
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330735
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1296
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328718
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1288
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328979
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1336
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331377
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 1360
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329840
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1336
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329615
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1532
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330957
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 1280
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331378
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 1232
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329694
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1316
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333971
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1400
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329655
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1312
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328782
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1424
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330886
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 1292
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330974
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 1380
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330558
+ --- n_polls: 31 | n_downloads: 1
+ --- flushing staging buffer: 1428
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332003
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1340
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331874
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1332
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331330
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 1292
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331855
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1428
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333470
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1336
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330827
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1356
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328259
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1304
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328919
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1364
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330647
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1352
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330339
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1216
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329851
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1312
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332082
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1356
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332144
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1424
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332898
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 1332
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329059
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1372
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329156
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1360
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331599
+ --- n_polls: 82 | n_downloads: 1
+
+ integrated: 7791 polls 
+             97 downloads 
+             0 resets 
+             32155 words 
+             128620 bytes 
+             0 rollover 
+             1.00255 seconds 
+
+      rates: 7771.17 polls/s
+             96.7532 downloads/s
+             0 resets/s
+             32073.2 words/s
+             128293 bytes/s
+             0 rollover/s
+
+ --- setting ALCOR filter mode: 15
+ --- opening output file: ureadout_bias_voltage=39.7_biasdac=2066_basethreshold=5_threshold=10.chip_2.channel_17.alcor.dat
+ --- opening output file: ureadout_bias_voltage=39.7_biasdac=2066_basethreshold=5_threshold=10.chip_2.channel_17.trigger.dat
+ --- status of PCR2 and PRC3 registers 
+LE1DAC = 10 | LEDACrange = 1 | LEDACVth = 1 | LE2DAC = 63
+Polarity = 1 | Gain2 = 0 | Gain1 = 0 | Offset2 = 0 | OpMode = 1 | Offset1 = 7
+ --- flushing staging buffer: 1724
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330306
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1744
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332355
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1744
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330935
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1596
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330540
+ --- n_polls: 73 | n_downloads: 1
+ --- flushing staging buffer: 1628
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332723
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1656
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330851
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1688
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330434
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1668
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333167
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1544
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333659
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1696
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333145
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1868
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331969
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1652
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331590
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1672
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330675
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1664
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332805
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1760
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329799
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1700
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330054
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1568
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332994
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1688
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332638
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1668
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331562
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1868
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333562
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1496
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331302
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1564
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332698
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1656
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333838
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1676
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333118
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1828
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332198
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1644
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330226
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1756
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332678
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1696
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332950
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1712
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331114
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1736
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332067
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1604
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333770
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1604
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 334033
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1572
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332758
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1884
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332058
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1692
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330150
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1688
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332614
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1592
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331617
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1668
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331661
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1740
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331609
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1584
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330374
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1564
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332825
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1624
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332841
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1592
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332247
+ --- n_polls: 73 | n_downloads: 1
+ --- flushing staging buffer: 1612
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333813
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1564
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331046
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1828
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333273
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1708
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330882
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1544
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329751
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1704
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329682
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1736
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330726
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1612
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332097
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1760
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333511
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1496
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332446
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1684
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333034
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1676
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333454
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1716
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333234
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1528
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332110
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1724
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331839
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1540
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331306
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1900
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330025
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1728
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330725
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1696
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330693
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1836
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 335818
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1684
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333810
+ --- n_polls: 70 | n_downloads: 1
+ --- flushing staging buffer: 1536
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332606
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1760
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332830
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1696
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331189
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1616
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331898
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1840
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332310
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1788
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333654
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1476
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331051
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1700
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332026
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1720
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330073
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1736
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329687
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1604
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333305
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1868
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332539
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1700
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330487
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1612
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330242
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1736
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333254
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1624
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330894
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1584
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330635
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1636
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330851
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1592
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330186
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1556
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330710
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1728
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331146
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1728
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331508
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1652
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333022
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1540
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333266
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1560
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332093
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1668
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331565
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1632
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333098
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1516
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332917
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1576
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331451
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1608
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331809
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1716
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332170
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1496
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 334186
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1672
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329899
+ --- n_polls: 74 | n_downloads: 1
+
+ integrated: 7240 polls 
+             97 downloads 
+             0 resets 
+             40429 words 
+             161716 bytes 
+             0 rollover 
+             1.0062 seconds 
+
+      rates: 7195.4 polls/s
+             96.4025 downloads/s
+             0 resets/s
+             40180 words/s
+             160720 bytes/s
+             0 rollover/s
+
+ --- setting ALCOR filter mode: 15
+ --- opening output file: ureadout_bias_voltage=40.2_biasdac=2092_basethreshold=5_threshold=10.chip_2.channel_17.alcor.dat
+ --- opening output file: ureadout_bias_voltage=40.2_biasdac=2092_basethreshold=5_threshold=10.chip_2.channel_17.trigger.dat
+ --- status of PCR2 and PRC3 registers 
+LE1DAC = 10 | LEDACrange = 1 | LEDACVth = 1 | LE2DAC = 63
+Polarity = 1 | Gain2 = 0 | Gain1 = 0 | Offset2 = 0 | OpMode = 1 | Offset1 = 7
+ --- flushing staging buffer: 1624
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 336483
+ --- n_polls: 65 | n_downloads: 1
+ --- flushing staging buffer: 1688
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333160
+ --- n_polls: 65 | n_downloads: 1
+ --- flushing staging buffer: 1888
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 335113
+ --- n_polls: 67 | n_downloads: 1
+ --- flushing staging buffer: 1844
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332119
+ --- n_polls: 73 | n_downloads: 1
+ --- flushing staging buffer: 1740
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329777
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 1796
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332231
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 1600
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 334381
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 1628
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332300
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 1772
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330504
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 1864
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332109
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 1848
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329616
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 1788
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332884
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 1728
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330749
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 1808
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332855
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 1688
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333531
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 1640
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332320
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 1688
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331845
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 1648
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332068
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 1820
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333203
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 1504
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333126
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 1764
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329481
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 1856
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331495
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1700
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333382
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1732
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329452
+ --- n_polls: 73 | n_downloads: 1
+ --- flushing staging buffer: 1632
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331159
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1684
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330023
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1628
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331807
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1740
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331035
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1668
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328798
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1748
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329726
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1840
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329764
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1652
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328843
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1776
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330971
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1872
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329154
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1812
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331451
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1740
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331942
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 1832
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330295
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1808
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331742
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 1628
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332426
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1672
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330563
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1788
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330743
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1716
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330322
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 1796
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328759
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1712
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328106
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1728
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329195
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1680
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330755
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1728
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328071
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1740
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329923
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1836
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328314
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1536
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331742
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1804
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329089
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1856
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330003
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1692
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331375
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1784
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330507
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1740
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330622
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1548
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329757
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1700
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332006
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1752
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333570
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1756
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332478
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1696
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331803
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1824
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333405
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1732
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333931
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1812
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330083
+ --- n_polls: 73 | n_downloads: 1
+ --- flushing staging buffer: 1712
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330123
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1756
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331139
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1640
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332763
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1776
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333881
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1604
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330977
+ --- n_polls: 72 | n_downloads: 1
+ --- flushing staging buffer: 1644
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333230
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1796
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333648
+ --- n_polls: 73 | n_downloads: 1
+ --- flushing staging buffer: 1668
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332891
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1784
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333040
+ --- n_polls: 73 | n_downloads: 1
+ --- flushing staging buffer: 1724
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331412
+ --- n_polls: 73 | n_downloads: 1
+ --- flushing staging buffer: 1756
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333706
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1852
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 339502
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1748
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 334353
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1856
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331906
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1740
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333780
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1648
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331093
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1716
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331928
+ --- n_polls: 73 | n_downloads: 1
+ --- flushing staging buffer: 1652
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331897
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 1544
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331102
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 1724
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331650
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 1708
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329967
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1788
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329651
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1624
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330293
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 1712
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330407
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1620
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331041
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 1776
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330875
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1804
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330868
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1700
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333734
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1624
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332607
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1756
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332598
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1716
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330234
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 1888
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332367
+ --- n_polls: 69 | n_downloads: 1
+ --- flushing staging buffer: 1812
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330493
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 1712
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330498
+ --- n_polls: 75 | n_downloads: 1
+
+ integrated: 7515 polls 
+             97 downloads 
+             0 resets 
+             41981 words 
+             167924 bytes 
+             0 rollover 
+             1.00494 seconds 
+
+      rates: 7478.05 polls/s
+             96.5231 downloads/s
+             0 resets/s
+             41774.6 words/s
+             167098 bytes/s
+             0 rollover/s
+
+ --- setting ALCOR filter mode: 15
+ --- opening output file: ureadout_bias_voltage=40.7_biasdac=2118_basethreshold=5_threshold=10.chip_2.channel_17.alcor.dat
+ --- opening output file: ureadout_bias_voltage=40.7_biasdac=2118_basethreshold=5_threshold=10.chip_2.channel_17.trigger.dat
+ --- status of PCR2 and PRC3 registers 
+LE1DAC = 10 | LEDACrange = 1 | LEDACVth = 1 | LE2DAC = 63
+Polarity = 1 | Gain2 = 0 | Gain1 = 0 | Offset2 = 0 | OpMode = 1 | Offset1 = 7
+ --- flushing staging buffer: 1828
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332320
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 1900
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329852
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 1848
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331987
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 1840
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332219
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 1824
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330919
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 1992
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329284
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 1888
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333639
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 1996
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330128
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 2060
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330300
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 1864
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332585
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 1820
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330216
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 2072
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332983
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 1960
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333228
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 2088
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331968
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 1892
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330508
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 1860
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332723
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 1892
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330160
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 1984
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333368
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 1908
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331067
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 1848
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330513
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 1936
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332551
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 1756
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331436
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 2152
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330909
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 1932
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333475
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2088
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331704
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 2008
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331312
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 2004
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329521
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 1928
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330874
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 1768
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332146
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1880
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331303
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1760
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330099
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1976
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331491
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1980
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332986
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1900
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329438
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1948
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330621
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2048
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330780
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 1968
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329146
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1856
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331858
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1768
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331887
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1872
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329934
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1888
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328535
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2128
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330611
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1784
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330575
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1848
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330467
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1972
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330043
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1984
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331983
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1804
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330831
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1788
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329443
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2008
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330287
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2012
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330363
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1952
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332403
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1980
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330635
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1892
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328751
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1872
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331211
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1848
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331659
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2064
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328766
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1824
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329006
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1992
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331267
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1864
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329335
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1960
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331851
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2020
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331758
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 1852
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330228
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1980
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329212
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2064
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332083
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2144
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328613
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 1884
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329464
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1836
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328940
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1908
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331282
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 2140
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330416
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1724
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330592
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1796
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328632
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1892
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328805
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 1908
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330381
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 2000
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332048
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1848
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332334
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1904
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330889
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 1960
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330403
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1760
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330847
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2204
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329729
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 2024
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331616
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2080
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331943
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1796
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330327
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1796
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328805
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 2024
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330376
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1992
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331948
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1964
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331063
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1936
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333335
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1940
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329576
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1848
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331742
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 1980
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329163
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2036
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330006
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1832
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332946
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2048
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329304
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1888
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330044
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 1936
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330073
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1912
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332285
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 1856
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330478
+ --- n_polls: 83 | n_downloads: 1
+
+ integrated: 7768 polls 
+             97 downloads 
+             0 resets 
+             46767 words 
+             187068 bytes 
+             0 rollover 
+             1.00291 seconds 
+
+      rates: 7745.45 polls/s
+             96.7185 downloads/s
+             0 resets/s
+             46631.3 words/s
+             186525 bytes/s
+             0 rollover/s
+
+ --- setting ALCOR filter mode: 15
+ --- opening output file: ureadout_bias_voltage=41.2_biasdac=2144_basethreshold=5_threshold=10.chip_2.channel_17.alcor.dat
+ --- opening output file: ureadout_bias_voltage=41.2_biasdac=2144_basethreshold=5_threshold=10.chip_2.channel_17.trigger.dat
+ --- status of PCR2 and PRC3 registers 
+LE1DAC = 10 | LEDACrange = 1 | LEDACVth = 1 | LE2DAC = 63
+Polarity = 1 | Gain2 = 0 | Gain1 = 0 | Offset2 = 0 | OpMode = 1 | Offset1 = 7
+ --- flushing staging buffer: 1952
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333361
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2200
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331402
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2144
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331817
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2072
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329698
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2112
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333589
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 2256
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331546
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2220
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331047
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 2188
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329930
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 2288
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330110
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 2236
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329886
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 2172
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332094
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2212
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333146
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2208
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331522
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2280
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333278
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2172
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333371
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 2148
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331873
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2328
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331806
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2372
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333870
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2312
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331926
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2320
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333986
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2272
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 336515
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 2052
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333494
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2136
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333599
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2232
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332658
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2300
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330261
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2308
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329890
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2144
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332464
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 2208
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328579
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 2128
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330955
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2432
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333273
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 2176
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333937
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2096
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331734
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2144
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330438
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2200
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330550
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2312
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330237
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2256
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330150
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2172
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333716
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 2096
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331814
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2256
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331551
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2052
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329767
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2204
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330355
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2088
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328938
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2148
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328971
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2188
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331782
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 2152
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329727
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2156
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329998
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2140
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330310
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2080
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333533
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 2412
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331734
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2196
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332083
+ --- n_polls: 73 | n_downloads: 1
+ --- flushing staging buffer: 2348
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330760
+ --- n_polls: 57 | n_downloads: 1
+ --- flushing staging buffer: 2272
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333111
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 2056
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333792
+ --- n_polls: 73 | n_downloads: 1
+ --- flushing staging buffer: 2192
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330558
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 2380
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331123
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 2176
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332094
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2296
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333156
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 2048
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331169
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2268
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332322
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2064
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330134
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 2224
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332105
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 2096
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332751
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2188
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331145
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 2496
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328333
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 2300
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 338488
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 2236
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332578
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2160
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331902
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2340
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330034
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2256
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330406
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2184
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332375
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2108
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331764
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2164
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330763
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2144
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331615
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2080
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330541
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 2264
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332037
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2364
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331248
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2168
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328258
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2300
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330780
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2244
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331602
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 2172
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331778
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2192
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330407
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2084
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330222
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 2076
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331203
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2164
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330439
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 1828
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330201
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 2144
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331352
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2136
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329802
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2296
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328715
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2008
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330305
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 2344
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331546
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 2000
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328886
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2248
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330962
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2016
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330495
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2228
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329914
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2176
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 334177
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 2184
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330499
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2128
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330775
+ --- n_polls: 82 | n_downloads: 1
+
+ integrated: 7518 polls 
+             97 downloads 
+             0 resets 
+             53192 words 
+             212768 bytes 
+             0 rollover 
+             1.00472 seconds 
+
+      rates: 7482.72 polls/s
+             96.5448 downloads/s
+             0 resets/s
+             52942.4 words/s
+             211769 bytes/s
+             0 rollover/s
+
+ --- setting ALCOR filter mode: 15
+ --- opening output file: ureadout_bias_voltage=41.7_biasdac=2170_basethreshold=5_threshold=10.chip_2.channel_17.alcor.dat
+ --- opening output file: ureadout_bias_voltage=41.7_biasdac=2170_basethreshold=5_threshold=10.chip_2.channel_17.trigger.dat
+ --- status of PCR2 and PRC3 registers 
+LE1DAC = 10 | LEDACrange = 1 | LEDACVth = 1 | LE2DAC = 63
+Polarity = 1 | Gain2 = 0 | Gain1 = 0 | Offset2 = 0 | OpMode = 1 | Offset1 = 7
+ --- flushing staging buffer: 2340
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328808
+ --- n_polls: 84 | n_downloads: 1
+ --- flushing staging buffer: 2324
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328225
+ --- n_polls: 84 | n_downloads: 1
+ --- flushing staging buffer: 2276
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329034
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 2580
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329965
+ --- n_polls: 84 | n_downloads: 1
+ --- flushing staging buffer: 2416
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329652
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 2724
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331910
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2608
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329384
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 2344
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330005
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2312
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329720
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2488
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331645
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2316
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330534
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2484
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329246
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2372
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331094
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2444
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331905
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2352
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330394
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2212
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331335
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2600
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331126
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2388
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332921
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 2384
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332694
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2288
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333082
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2448
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331921
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2376
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330807
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2188
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331778
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2416
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332273
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 2384
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332397
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2416
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331746
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2456
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330094
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2292
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331409
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2440
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331805
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2360
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332837
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 2384
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332033
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2312
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330790
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2592
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329866
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2456
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328935
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2292
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330478
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2368
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329618
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2284
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332210
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2368
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331206
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2488
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331530
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2444
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329538
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2480
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329181
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2508
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330670
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2228
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331693
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2464
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331150
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2352
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329142
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2648
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329994
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2376
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331532
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 2476
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330012
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 2656
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330629
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2324
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329408
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2628
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330719
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 2460
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331302
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 2376
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332709
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 2416
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330041
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 2552
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332582
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2416
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330294
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2336
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329178
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2572
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330231
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 2524
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331170
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2400
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331033
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 2388
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330675
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2632
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331174
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2172
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331406
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2484
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330712
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2340
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329208
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2316
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329357
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2416
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329985
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 2412
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329604
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 2476
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328403
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2516
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330121
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 2568
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331200
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2348
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331486
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2412
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330447
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2544
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330100
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2540
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 334315
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2316
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329583
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2516
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331444
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2628
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329213
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 2204
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331595
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2544
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330748
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2516
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330991
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2308
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328984
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2400
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331846
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2348
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331129
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 2336
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331958
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2476
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331641
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 2524
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330693
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 2448
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332462
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2580
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331276
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2268
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328627
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2716
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332415
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2404
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329751
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2400
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328186
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2396
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332211
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2412
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330838
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 2328
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329658
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2532
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332074
+ --- n_polls: 83 | n_downloads: 1
+
+ integrated: 7692 polls 
+             97 downloads 
+             0 resets 
+             58843 words 
+             235372 bytes 
+             0 rollover 
+             1.00263 seconds 
+
+      rates: 7671.83 polls/s
+             96.7456 downloads/s
+             0 resets/s
+             58688.7 words/s
+             234755 bytes/s
+             0 rollover/s
+
+ --- setting ALCOR filter mode: 15
+ --- opening output file: ureadout_bias_voltage=42.2_biasdac=2196_basethreshold=5_threshold=10.chip_2.channel_17.alcor.dat
+ --- opening output file: ureadout_bias_voltage=42.2_biasdac=2196_basethreshold=5_threshold=10.chip_2.channel_17.trigger.dat
+ --- status of PCR2 and PRC3 registers 
+LE1DAC = 10 | LEDACrange = 1 | LEDACVth = 1 | LE2DAC = 63
+Polarity = 1 | Gain2 = 0 | Gain1 = 0 | Offset2 = 0 | OpMode = 1 | Offset1 = 7
+ --- flushing staging buffer: 2684
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332602
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2788
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331259
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2480
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330978
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2564
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331274
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2684
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331610
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2836
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332911
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 2564
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332067
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2648
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330695
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2616
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331750
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2760
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332881
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2516
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330651
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2732
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330708
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 2764
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329653
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 2812
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331131
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2816
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332215
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2596
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331551
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2636
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332783
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 2784
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331147
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2828
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330635
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2648
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331690
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2748
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331719
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2780
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331518
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2696
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332342
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2616
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331491
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2684
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331614
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2496
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330048
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 2824
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332508
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 2744
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331435
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 2724
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332003
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2780
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332146
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2664
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329532
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 2656
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332462
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 3052
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329576
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 2552
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330672
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 2768
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330863
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2624
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332817
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 2464
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332126
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2868
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332267
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 2932
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331860
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 2900
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330373
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 2712
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329405
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 2880
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331325
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 2732
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331845
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 2748
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329616
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 2508
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330878
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2508
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331907
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2544
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331935
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2644
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330214
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2776
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331435
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2936
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332431
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2952
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332011
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2752
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331962
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2760
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330451
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2728
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331631
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 2524
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332270
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2608
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331269
+ --- n_polls: 72 | n_downloads: 1
+ --- flushing staging buffer: 2636
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329911
+ --- n_polls: 62 | n_downloads: 1
+ --- flushing staging buffer: 2760
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333275
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 2464
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330485
+ --- n_polls: 72 | n_downloads: 1
+ --- flushing staging buffer: 2760
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 355002
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2724
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331110
+ --- n_polls: 71 | n_downloads: 1
+ --- flushing staging buffer: 3620
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 413917
+ --- n_polls: 16 | n_downloads: 1
+ --- flushing staging buffer: 2672
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 335122
+ --- n_polls: 71 | n_downloads: 1
+ --- flushing staging buffer: 2652
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332227
+ --- n_polls: 69 | n_downloads: 1
+ --- flushing staging buffer: 2728
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333031
+ --- n_polls: 69 | n_downloads: 1
+ --- flushing staging buffer: 2848
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 334799
+ --- n_polls: 70 | n_downloads: 1
+ --- flushing staging buffer: 2764
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333667
+ --- n_polls: 70 | n_downloads: 1
+ --- flushing staging buffer: 5736
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 706807
+ --- n_polls: 66 | n_downloads: 1
+ --- flushing staging buffer: 2800
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329935
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 2556
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331867
+ --- n_polls: 73 | n_downloads: 1
+ --- flushing staging buffer: 2844
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330345
+ --- n_polls: 67 | n_downloads: 1
+ --- flushing staging buffer: 2680
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332319
+ --- n_polls: 73 | n_downloads: 1
+ --- flushing staging buffer: 2696
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329919
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 2552
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332997
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2600
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333056
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 2632
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331079
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2792
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328882
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2844
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328951
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2596
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329170
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2600
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329593
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 2884
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328651
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2568
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329393
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2796
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330707
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2664
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333265
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 2720
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331911
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2436
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328860
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2640
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329770
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2820
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331318
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 2476
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328829
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 2664
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332380
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2676
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330763
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2508
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330978
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2644
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331286
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 2504
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329568
+ --- n_polls: 73 | n_downloads: 1
+ --- flushing staging buffer: 2788
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330600
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2596
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329226
+ --- n_polls: 83 | n_downloads: 1
+
+ integrated: 7370 polls 
+             96 downloads 
+             0 resets 
+             65645 words 
+             262580 bytes 
+             0 rollover 
+             1.00891 seconds 
+
+      rates: 7304.91 polls/s
+             95.1522 downloads/s
+             0 resets/s
+             65065.3 words/s
+             260261 bytes/s
+             0 rollover/s
+
+ --- setting ALCOR filter mode: 15
+ --- opening output file: ureadout_bias_voltage=42.7_biasdac=2222_basethreshold=5_threshold=10.chip_2.channel_17.alcor.dat
+ --- opening output file: ureadout_bias_voltage=42.7_biasdac=2222_basethreshold=5_threshold=10.chip_2.channel_17.trigger.dat
+ --- status of PCR2 and PRC3 registers 
+LE1DAC = 10 | LEDACrange = 1 | LEDACVth = 1 | LE2DAC = 63
+Polarity = 1 | Gain2 = 0 | Gain1 = 0 | Offset2 = 0 | OpMode = 1 | Offset1 = 7
+ --- flushing staging buffer: 3200
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328931
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 3060
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331321
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 3048
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330754
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 2972
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331242
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 2992
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330594
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 2924
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330481
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3016
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331165
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3104
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328483
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 3236
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328792
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3124
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330894
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3156
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329754
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2912
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331309
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 2940
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331065
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3144
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332231
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 3028
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333926
+ --- n_polls: 71 | n_downloads: 1
+ --- flushing staging buffer: 2896
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331046
+ --- n_polls: 75 | n_downloads: 1
+ --- flushing staging buffer: 2852
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331251
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 2964
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333765
+ --- n_polls: 71 | n_downloads: 1
+ --- flushing staging buffer: 3044
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329510
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 3112
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331995
+ --- n_polls: 74 | n_downloads: 1
+ --- flushing staging buffer: 2784
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332525
+ --- n_polls: 71 | n_downloads: 1
+ --- flushing staging buffer: 3012
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332809
+ --- n_polls: 72 | n_downloads: 1
+ --- flushing staging buffer: 2824
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330024
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 2860
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332568
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 3068
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330108
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 3040
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329590
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2780
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330547
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 3200
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329544
+ --- n_polls: 84 | n_downloads: 1
+ --- flushing staging buffer: 2804
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332118
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2884
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 335399
+ --- n_polls: 70 | n_downloads: 1
+ --- flushing staging buffer: 3032
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329801
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 2972
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329276
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3056
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332296
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3076
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333979
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2900
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330099
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 3012
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 334568
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 2920
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332595
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 3040
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330590
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2968
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330853
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 3088
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330081
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 3068
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330889
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 3040
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332448
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3188
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331686
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2888
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331954
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 3000
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331824
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3176
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331037
+ --- n_polls: 84 | n_downloads: 1
+ --- flushing staging buffer: 3080
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330070
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3080
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331866
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 2864
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331667
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 3304
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328903
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3228
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330326
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3008
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331030
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 2956
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331086
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 2968
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330878
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3180
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331586
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 2976
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330146
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3144
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331369
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 2904
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329087
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3076
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328755
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 3088
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331086
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 2692
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330591
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2956
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329311
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2864
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331250
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3156
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328495
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2920
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331904
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 2972
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330821
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 3056
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331032
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3060
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330528
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2808
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328648
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2964
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330444
+ --- n_polls: 84 | n_downloads: 1
+ --- flushing staging buffer: 2948
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331070
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 2856
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331026
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3128
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331062
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3068
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328726
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3152
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329026
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3264
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330249
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3068
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329698
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 2796
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330054
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 3200
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331577
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 2980
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330463
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 3048
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330667
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 2996
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330184
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 3020
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332981
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 3108
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331413
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3168
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328878
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2872
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332425
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 3064
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329070
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 3144
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331757
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3324
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329728
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 3020
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331979
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 2948
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329044
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 2944
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331841
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3236
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332302
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3124
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331642
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3084
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329264
+ --- n_polls: 84 | n_downloads: 1
+ --- flushing staging buffer: 2960
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329004
+ --- n_polls: 84 | n_downloads: 1
+ --- flushing staging buffer: 3140
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332106
+ --- n_polls: 82 | n_downloads: 1
+
+ integrated: 7771 polls 
+             97 downloads 
+             0 resets 
+             73342 words 
+             293368 bytes 
+             0 rollover 
+             1.00299 seconds 
+
+      rates: 7747.8 polls/s
+             96.7104 downloads/s
+             0 resets/s
+             73123 words/s
+             292492 bytes/s
+             0 rollover/s
+
+ --- setting ALCOR filter mode: 15
+ --- opening output file: ureadout_bias_voltage=43.2_biasdac=2248_basethreshold=5_threshold=10.chip_2.channel_17.alcor.dat
+ --- opening output file: ureadout_bias_voltage=43.2_biasdac=2248_basethreshold=5_threshold=10.chip_2.channel_17.trigger.dat
+ --- status of PCR2 and PRC3 registers 
+LE1DAC = 10 | LEDACrange = 1 | LEDACVth = 1 | LE2DAC = 63
+Polarity = 1 | Gain2 = 0 | Gain1 = 0 | Offset2 = 0 | OpMode = 1 | Offset1 = 7
+ --- flushing staging buffer: 3448
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331792
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3372
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331506
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 3360
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329503
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 3384
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330686
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 3264
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329163
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 3588
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329552
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3140
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330559
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3212
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328699
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3180
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328720
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3276
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328531
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3268
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330031
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3316
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330356
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3432
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330176
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3332
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329637
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3444
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330897
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3320
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329173
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 3560
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332537
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3364
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331945
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3272
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332204
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3180
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332021
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3568
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333060
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3176
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329210
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 3116
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330193
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 3528
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332448
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3484
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332097
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3484
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331741
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3348
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333038
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 3228
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331632
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 3464
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333050
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 3300
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329899
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 3416
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332161
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3140
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331324
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3188
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332281
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3492
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332178
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 3304
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330526
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 3380
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331522
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 3348
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329742
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 3212
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331325
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 3620
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332205
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 3408
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331779
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3460
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331286
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 3272
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331685
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 3460
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332514
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 3348
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332205
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 3432
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329589
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3436
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328984
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3320
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 327917
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3184
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328242
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3460
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331353
+ --- n_polls: 84 | n_downloads: 1
+ --- flushing staging buffer: 3360
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330980
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3276
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330036
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3200
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331390
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3256
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329754
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3224
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330606
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 3188
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330936
+ --- n_polls: 84 | n_downloads: 1
+ --- flushing staging buffer: 3388
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331693
+ --- n_polls: 84 | n_downloads: 1
+ --- flushing staging buffer: 3596
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330905
+ --- n_polls: 84 | n_downloads: 1
+ --- flushing staging buffer: 3432
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331848
+ --- n_polls: 84 | n_downloads: 1
+ --- flushing staging buffer: 3468
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330561
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3444
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330298
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3504
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329726
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3320
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331657
+ --- n_polls: 84 | n_downloads: 1
+ --- flushing staging buffer: 3300
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328402
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3012
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328850
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3252
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329674
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3432
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329586
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3376
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328298
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3400
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330644
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3224
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331310
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3428
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330365
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3480
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332021
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3404
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330669
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3200
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329559
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3364
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329562
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3284
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331542
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3416
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328152
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3288
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330378
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 3320
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329522
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 3292
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328731
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 3200
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328579
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 3332
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330286
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 3460
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329059
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 3268
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329806
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3388
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331553
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3316
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329913
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3360
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330703
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 3336
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329774
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3488
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328817
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3244
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331590
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3272
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329590
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3264
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331102
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3440
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329315
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 3276
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330699
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 3760
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330669
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 3484
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329154
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 3512
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332905
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3204
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329372
+ --- n_polls: 80 | n_downloads: 1
+
+ integrated: 7885 polls 
+             97 downloads 
+             0 resets 
+             81255 words 
+             325020 bytes 
+             0 rollover 
+             1.00198 seconds 
+
+      rates: 7869.4 polls/s
+             96.8082 downloads/s
+             0 resets/s
+             81094.3 words/s
+             324377 bytes/s
+             0 rollover/s
+
+ --- setting ALCOR filter mode: 15
+ --- opening output file: ureadout_bias_voltage=43.7_biasdac=2274_basethreshold=5_threshold=10.chip_2.channel_17.alcor.dat
+ --- opening output file: ureadout_bias_voltage=43.7_biasdac=2274_basethreshold=5_threshold=10.chip_2.channel_17.trigger.dat
+ --- status of PCR2 and PRC3 registers 
+LE1DAC = 10 | LEDACrange = 1 | LEDACVth = 1 | LE2DAC = 63
+Polarity = 1 | Gain2 = 0 | Gain1 = 0 | Offset2 = 0 | OpMode = 1 | Offset1 = 7
+ --- flushing staging buffer: 3512
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332858
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 3652
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330778
+ --- n_polls: 70 | n_downloads: 1
+ --- flushing staging buffer: 3332
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331535
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 3628
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328511
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 3572
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332088
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3796
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331907
+ --- n_polls: 82 | n_downloads: 1
+ --- flushing staging buffer: 3396
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330089
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3572
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330192
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3668
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330612
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3724
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328944
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3576
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329596
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3732
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329135
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 3488
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328985
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3776
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329124
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3560
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332292
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3848
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331924
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3604
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330988
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3892
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330811
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3928
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329912
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3640
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332216
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3796
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328673
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3876
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329817
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3724
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330225
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3792
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329305
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3604
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331775
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3600
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332092
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3628
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331532
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3568
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332340
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3732
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328848
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3848
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328833
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3864
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332300
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3632
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330328
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3860
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330017
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3700
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330417
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3592
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330169
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3520
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330464
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3848
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331341
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3696
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 335669
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3988
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330879
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3596
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331285
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3748
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330581
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3464
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329449
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3716
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332063
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 4024
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331736
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3796
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329372
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3632
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329249
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3552
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333320
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3672
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332300
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3940
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329421
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3624
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330587
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3688
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330572
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3548
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329685
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3700
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332224
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3752
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329580
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3560
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328987
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3348
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328944
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3492
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329019
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3648
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329484
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3656
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329839
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3444
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330656
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3676
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332728
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3688
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330291
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3700
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330784
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3808
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329859
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 3344
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329301
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 3780
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330300
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3580
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332883
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3760
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332359
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3740
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331400
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 3704
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331938
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 3752
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330193
+ --- n_polls: 76 | n_downloads: 1
+ --- flushing staging buffer: 3816
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330960
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 3580
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333672
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 3688
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328625
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3760
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328875
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 3972
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329836
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 3796
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328760
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 3668
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329237
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3404
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331361
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 4064
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331552
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 4072
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329658
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 3428
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329013
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3632
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328652
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3604
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329540
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3760
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328179
+ --- n_polls: 77 | n_downloads: 1
+ --- flushing staging buffer: 3756
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331800
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3504
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 333450
+ --- n_polls: 79 | n_downloads: 1
+ --- flushing staging buffer: 3800
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330388
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3716
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331753
+ --- n_polls: 80 | n_downloads: 1
+ --- flushing staging buffer: 3860
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 332231
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 3736
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 328899
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 3780
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329058
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3740
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 330798
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3816
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329282
+ --- n_polls: 83 | n_downloads: 1
+ --- flushing staging buffer: 3672
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331695
+ --- n_polls: 78 | n_downloads: 1
+ --- flushing staging buffer: 3412
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 331675
+ --- n_polls: 81 | n_downloads: 1
+ --- flushing staging buffer: 3892
+ --- flushing staging buffer TRG: 16
+ --- timer counter was: 329032
+ --- n_polls: 80 | n_downloads: 1
+
+ integrated: 7748 polls 
+             97 downloads 
+             0 resets 
+             89456 words 
+             357824 bytes 
+             0 rollover 
+             1.00206 seconds 
+
+      rates: 7732.08 polls/s
+             96.8007 downloads/s
+             0 resets/s
+             89272.2 words/s
+             357089 bytes/s
+             0 rollover/s
+
+ --- setting ALCOR filter mode: 15
+ --- opening output file: ureadout_bias_voltage=44.2_biasdac=2300_basethreshold=5_threshold=10.chip_2.channel_17.alcor.dat
+ --- opening output file: ureadout_bias_voltage=44.2_biasdac=2300_basethreshold=5_threshold=10.chip_2.channel_17.trigger.dat
+ --- status of PCR2 and PRC3 registers 
+LE1DAC = 10 | LEDACrange = 1 | LEDACVth = 1 | LE2DAC = 63
+Polarity = 1 | Gain2 = 0 | Gain1 = 0 | Offset2 = 0 | OpMode = 1 | Offset1 = 7
